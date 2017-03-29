@@ -59,6 +59,75 @@ Who , What and When of the data:  http://resonate.duarte.com/#!page0
 
 Course 2: Essential Design principles
 
+Week 1: Effective and Ineffective visuals 
+
+Visualization is growing up: https://eagereyes.org/blog/2011/visualization-is-growing-up
+
+Types of Visualizations: Text/Number Visualization, 2x2 Table, Heatmap, Scatter plots (continuos variables), Line Graphs(time), Bar Graph(Horiontal, vertical, stacked, waterfall graphs), and maps for spatial analysis. 
+
+Visual Analytics Best Practices: https://www.tableau.com/learn/whitepapers/tableau-visual-guidebook
+
+Data Visualization Best Practices - Part 1: https://www.cardinalsolutions.com/blog/2016/04/data-visualization-best-practices-part-one-the-three-cardinal-rules
+
+Data Visualization Best Practices- Part 2: https://www.cardinalsolutions.com/blog/2016/05/data-visualization-best-practices-part-two-mistakes-to-avoid
+
+Ethics of Visualization: http://chrisalensula.org/the-ethics-of-visualization/
+
+To optimize or satisfice in Data visualization: http://dataremixed.com/2016/01/optimize-or-satisfice-in-dataviz/
+
+Good Data Visualization should be boring: http://www.everydayanalytics.ca/search?updated-max=2015-11-25T16:04:00-05:00&max-results=1&start=3&by-date=false
+
+Stacked Area Graphs aren't very useful: http://www.everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html
+
+Week 2: Visual Perception and Cognitive load 
+
+Cognitive Design Guidelines: https://uxmag.com/articles/four-cognitive-design-guidelines-for-effective-information-dashbo
+
+Gestalt Principles: http://vanseodesign.com/web-design/gestalt-principles-of-perception/
+
+Tapping the power of visual perception: https://d18ky98rnyall9.cloudfront.net/_3fffb4dcdf9df7e584870027c6324dee_Stephen-Few-article.pdf?Expires=1490918400&Signature=R3Uu3StbHRHwmC7I55N20PfIxP1g-3u4cxt4T2449tL61e~-eNuOseFyZLwO~E-TN3TCGk-Nq-lF5alCpthAWMEVJOAOnpKtpA62VIbyq6rDfQ-2jZZV5lKSQHxGn0OLkK0DIQJ~j41qMj2Wms3BqStb1BocedVkq9ST75IH1iE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+Preattentive visual properties: https://www.interaction-design.org/literature/article/preattentive-visual-properties-and-how-to-use-them-in-information-visualization
+
+Declutter your data visualizations: http://www.storytellingwithdata.com/blog/2016/3/1/declutter-your-data-visualizations
+
+Week 3: Design Best practices and Exploratory Analysis
+
+Gestalt Priinciples: Proximity, Similarity, Enclosure, Closure, Continuity, Connection
+
+Making Data Visualizaions- Guide: https://www.slideshare.net/vis4/making-data-visualizations-a-survival-guide
+
+History of data visualization: http://www.dashboardinsight.com/news/news-articles/the-history-of-data-visualization.aspx
+
+Design Examples: http://www.perceptualedge.com/example5.php
+
+The Right Colors: http://www.perceptualedge.com/example5.php
+
+Missed Opportunities : http://euclid.psych.yorku.ca/SCS/Gallery/missed.html and  http://www.datavis.ca/gallery/missed.php
+
+Visual Business Intelligence: https://www.perceptualedge.com/blog/?p=2475
+
+Challenger Disaster: http://www.asktog.com/books/challengerExerpt.html
+
+Data Exploration and Visualization: https://www.tableau.com/whitepaper/visual-analysis-for-everyone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
