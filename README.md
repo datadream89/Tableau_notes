@@ -111,6 +111,9 @@ Challenger Disaster: http://www.asktog.com/books/challengerExerpt.html
 
 Data Exploration and Visualization: https://www.tableau.com/whitepaper/visual-analysis-for-everyone
 
+Anscombe's quartet: https://www.geogebra.org/m/tbwXxySn
+
+
 
 
 
