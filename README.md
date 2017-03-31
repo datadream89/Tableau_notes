@@ -113,7 +113,24 @@ Data Exploration and Visualization: https://www.tableau.com/whitepaper/visual-an
 
 Anscombe's quartet: https://www.geogebra.org/m/tbwXxySn
 
+Week 4: Design for Understanding
 
+Brain Pickings https://www.brainpickings.org/index.php/tag/data-visualization/
+
+Data Visualization for Human Perception https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception
+
+Data Visualization Gallery https://www.census.gov/dataviz/
+
+Flowing Data http://flowingdata.com/
+
+National Geographic Channel: Brain Games - Fun Facts About Perception http://channel.nationalgeographic.com/brain-games/articles/brain-games-watch-this-perception-facts/
+
+Junk Charts http://junkcharts.typepad.com/junk_charts/
+
+Taking Data Visualization From Eye Candy to Efficiency http://news.nationalgeographic.com/2015/09/150922-data-points-visualization-eye-candy-efficiency/
+
+The Surprising History of the Infographic http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist
+UX Magazine (I’ve written a series of articles about data visualization for the publication which can be found here): https://uxmag.com/contributors/hunter-whitney
 
 
 
