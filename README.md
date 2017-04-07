@@ -132,7 +132,13 @@ Taking Data Visualization From Eye Candy to Efficiency http://news.nationalgeogr
 The Surprising History of the Infographic http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist
 UX Magazine (I’ve written a series of articles about data visualization for the publication which can be found here): https://uxmag.com/contributors/hunter-whitney
 
+Course 3: Visual Analytics with Tableau
 
+Charting Types: Bar Graphs, Line Graphs, Pie Charts, Maps, Scatter Plots, Gantt Charts, Bubble Charts, Histograms, Bulet Charts, Heat Maps, Highlight Tables, Treemaps, and Box-Plots
+
+Dates, Table Calculations and Mapping
+
+Course 4: 
 
 
 
