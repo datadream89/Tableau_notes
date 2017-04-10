@@ -138,7 +138,23 @@ Charting Types: Bar Graphs, Line Graphs, Pie Charts, Maps, Scatter Plots, Gantt 
 
 Dates, Table Calculations and Mapping
 
-Course 4: 
+Course 4: Creating Dashboards and storytelling using Tableau
+
+Basic Data Storytelling Checklist: https://d18ky98rnyall9.cloudfront.net/_ea5009c4b0c433714e4a9442995ab990_Complete-Example---Basic-Data-Storytelling-Design-Checklist.pdf?Expires=1491955200&Signature=ODs~jJmNW9Oz0pLVouFeoBjmDRp1O9lFGqY~Jvo1fnzk8btdv0ze2o66xdTFyDY9EAqLyW~o7PaB5Tk3X7v0lYQSwnS24zN7ufS~tslQuTnvaW0gRin1pyMr8RzDhFgtLQB1K6Ba2HFoiNH3jTXLsvt9D8eUe7x2yFVEHbZE1Yw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+A Message From Psychologists to Economists: Mere Predictability Doesn’t Matter Like it Should (Without a Good Story Appended to it),  http://pages.ucsd.edu/~aronatas/project/academic/dawes%20on%20narratives.pdf
+
+Luhn, Matthew, How to Put More Emotion in Storytelling: Digital Advertisers Have Forgotten How to Make People Feel Something, Advertising Age, 2016 (http://adage.com/article/digitalnext/put-emotion-storytelling/304463/)
+
+ Data Storytelling: Using Visualization to Share the Human Impact of Numbers:https://www.tableau.com/learn/whitepapers/data-storytelling-using-visualization-share-human-impact-numbers
+ 
+ How to tell a story with data :https://hbr.org/2013/04/how-to-tell-a-story-with-data
+ 
+ 
+
+
+
+
 
 
 
