@@ -150,7 +150,23 @@ Luhn, Matthew, How to Put More Emotion in Storytelling: Digital Advertisers Have
  
  How to tell a story with data :https://hbr.org/2013/04/how-to-tell-a-story-with-data
  
+ Whitepaper https://d18ky98rnyall9.cloudfront.net/_5848e0522129c76574edfd65aba9b651_whitepaper_mustdosofmarketingdashboards_eng_3.pdf?Expires=1492473600&Signature=QCU-4btz3tQFFEGhqkvW2JLgQmaWYomlD8X~LoxvVBq5-zCFA~RkBhFII8UzSjTgu5P8ba0NKCJ3aRunhQQBIQKx5ZU8FjmnGdgZMDCdFqMj8KV-66HF3JCaeFpkog1lFKe9WKcXxG6JM7CWl69k40h0VzKyBhv6HoqKi3pEoM8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
  
+  A Guide to Creating Dashboards People Love to Use, http://www.cpoc.org/assets/Data/guide_to_dashboard_design1.pdf
+  
+  Top 5 Best Practices for creating effective dashboards, https://www.tableau.com/sites/default/files/whitepapers/dashboards-for-financial-services.pdf
+  
+ Dashboard Design Principles, http://www.bethkanter.org/dashboard-design/
+ 
+ 5 Principles of Great Dashboard Design, http://blog.sumall.com/journal/5-principles-great-dashboard-design.html
+ 
+  5 Best Practices for Telling Great Stories with Data. https://www.tableau.com/sites/default/files/whitepapers/whitepaper_best-practices_telling_great_stories.pdf
+  
+  Nuzzo, Regina, How scientists fool themselves – and how they can stop: Nature News and Comment, Nature 526, 182–185 2015 (http://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517)
+  
+  Paul, Annie M., Your Brain on Fiction, The New York Times Sunday Review Opinion 2012 (http://www.nytimes.com/2012/03/18/opinion/sunday/the-neuroscience-of-your-brain-on-fiction.html)
+  
+  McMinn, Randa, Merlob, Aaron, Where Data and Story Meet: The Modern Marketer and Modern Data Scientist The CMO Club (Hunter Whitney is one of the interviewees for this white paper.) (http://thecmoclub.com/wp-content/uploads/2017/01/Where_Data_and_Story_Meet.pdf)
 
 
 
