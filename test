@@ -1,178 +1,406 @@
-CLAIMTRACK — SLIDE 8 FINAL REFINEMENT
+CLAIMTRACK — SLIDE 9 FINAL FINANCIAL VALUE REDESIGN
 
-Refine Slide 8 ONLY of my existing ClaimTrack PowerPoint presentation for the Cigna Aspire iTournament 2026 finals.
+MASTER INSTRUCTIONS
 
-CRITICAL: Make targeted improvements to the existing slide. Do not redesign it.
+Refine Slide 9 ONLY of my existing ClaimTrack PowerPoint presentation for the Cigna Aspire iTournament 2026 finals.
 
-Preserve the current four-column stakeholder layout, two-capability ribbon, icons, colors, typography, navigation header, and footer.
+This is a high-impact executive refinement, not a complete presentation redesign.
+
+Preserve the existing Cigna/ClaimTrack branding, navy-blue and green color palette, navigation header, footer, slide numbering, and overall visual consistency with Slides 1–8.
 
 Do not modify any other slide.
 
-1. PRESERVE THE TITLE AND SUBTITLE
+The audience includes senior business executives, claims operations leaders, finance stakeholders, and AI/technology sponsors.
 
-Keep the title exactly:
+The tournament judging rubric assigns 30% to Value Creation. This slide must provide a compelling, credible, quantified business case without overstating what ClaimTrack has demonstrated.
 
-Everyone on the claim gets a clear answer to “what's next?”
+All slide elements must remain editable in PowerPoint.
 
-Keep the subtitle:
+---
 
-Earlier intervention. Verified progress. Less avoidable friction.
+1. STRATEGIC PURPOSE
 
-Both are concise, memorable, and aligned with ClaimTrack's value proposition.
+Slide 8 explained who benefits from ClaimTrack.
 
-2. PRESERVE THE TWO-CAPABILITY RIBBON
+Slide 9 must answer:
 
-Keep the existing horizontal ribbon immediately below the subtitle.
+How large is the measurable financial opportunity, and how will we validate it?
+
+The audience should understand three things within five seconds:
+
+1. $6.7M — Annualized COB-related contact-center cost pool.
+2. ~$337K — Illustrative annual capacity-equivalent value at 5% fewer COB calls.
+3. ~$1.0M — Illustrative annual capacity-equivalent value at 5% fewer billing + COB calls.
+
+The underlying contact-center baselines are internally sourced.
+
+The 5% reductions are hypothetical scenarios, not demonstrated ClaimTrack outcomes.
+
+Do not confuse baseline cost, gross capacity-equivalent value, realized cash savings, or net ROI.
+
+---
+
+2. HEADLINE AND SUBTITLE
+
+Replace the existing title with:
+
+A $6.7M COB call-cost pool creates a measurable opportunity.
+
+Subtitle:
+
+Internal contact-center baselines. Illustrative upside. Measured outcomes before scale.
+
+Keep the title prominent, navy blue, and consistent with the typography of previous slides.
+
+The subtitle must be readable during Microsoft Teams screen sharing.
+
+Do not use the previous headline:
+
+"A $6.7M baseline means small gains pay for the pilot."
+
+That wording prematurely implies financial break-even.
+
+---
+
+3. UPPER SECTION — THREE FINANCIAL PANELS
+
+Retain the existing three-panel layout.
+
+Make the first panel the dominant visual anchor. The second and third panels should be balanced, visually compelling, and clearly identified as illustrative scenarios.
+
+PANEL 1 — INTERNALLY SOURCED COB BASELINE
+
+Display prominently:
+
+$6.7M
+
+Label:
+
+Annualized COB call-cost pool
+
+Supporting calculation:
+
+46,757 calls/month × 12 × $12/call
+
+Small source annotation:
+
+Latest-month internal contact-center run rate
+
+The $12 is an internally sourced, fully loaded average cost per call.
+
+The calculation is:
+
+46,757 × 12 × $12 = $6,733,008.
+
+The displayed $6.7M is appropriately rounded.
+
+Use a navy-blue background with the large figure in green or another high-contrast accent consistent with the presentation.
+
+This is an annualized estimate based on the latest month, not actual trailing-12-month spending.
+
+PANEL 2 — COB-WIDE ILLUSTRATIVE SCENARIO
+
+Display prominently:
+
+~$337K
+
+Label:
+
+Annual capacity-equivalent value
+
+Supporting line:
+
+5% fewer COB calls ≈ 28K fewer calls/year
+
+Small qualifier:
+
+ILLUSTRATIVE 5% SCENARIO
+
+This is a COB-wide annualized scenario, not a pilot result.
+
+The calculation is:
+
+561,084 annualized calls × 5% × $12 = approximately $336,650.
+
+Use a clean light background, prominent navy number, and restrained green emphasis.
+
+Do not label this "COB-only pilot scenario."
+
+Do not describe the figure as realized cash savings.
+
+PANEL 3 — BROADER BILLING + COB SCENARIO
+
+Display prominently:
+
+~$1.0M
+
+Label:
+
+Broader annual capacity-equivalent value
+
+Supporting line:
+
+5% fewer billing + COB calls
+
+Small qualifier:
+
+INTERNAL BASELINE • ILLUSTRATIVE SCENARIO
+
+The broader billing + COB call population also comes from internal Cigna contact-center data, using the latest available month annualized over 12 months.
+
+The approximately $1.0M value represents a hypothetical 5% reduction applied to the broader cost pool.
+
+Do not imply this scenario has been achieved.
+
+Do not add the ~$337K and ~$1.0M figures together. The broader population includes the COB population, so these scenarios overlap.
+
+If the exact broader call count is available in the existing presentation data, preserve and use it. Do not invent a new denominator.
+
+---
+
+4. LOWER-LEFT — PRESERVE THE PROVIDER/MEMBER BREAKDOWN
+
+Keep the existing horizontal bar chart.
+
+Heading:
+
+Where the COB call-cost pool comes from
+
+Two horizontal bars:
+
+Provider calls — ~$3.76M
+
+Member calls — ~$2.94M
+
+Preserve the approximate proportions and existing blue color treatment.
+
+The figures represent components of the annualized COB cost pool, not incremental savings.
+
+Ensure the chart is easy to read through Teams screen sharing.
+
+Use large, clearly positioned labels.
+
+Do not introduce unnecessary gridlines, axes, or decorative effects.
+
+---
+
+5. LOWER-RIGHT — MAKE THE VALUE MECHANISM EXPLICIT
+
+Replace the current dense "Upside not yet monetized" bullet list with a concise, visually balanced section.
+
+Heading:
+
+Additional operational value to validate
+
+Use two compact rows or subpanels.
 
 PROACTIVE PRECLEAR
 
-Earlier risk identification → Potentially fewer avoidable pends
+Bold statement:
+
+Fewer avoidable COB pends
+
+Supporting text:
+
+Potentially less repeat processing and downstream rework
+
+Use a small icon or subtle accent to represent early intervention.
 
 SHARED RESOLUTION
 
-Verified progress → Potentially fewer repeat inquiries
+Bold statement:
 
-Maintain the two distinct accent colors and the balanced horizontal arrangement.
+Fewer repeat status inquiries
 
-Ensure the ribbon remains legible through Microsoft Teams screen sharing.
+Supporting text:
 
-Do not enlarge it at the expense of the stakeholder columns.
+Verified progress may reduce unnecessary follow-up
 
-3. REFINE THE MEMBERS COLUMN
+Use a complementary icon or accent representing verified progress.
 
-Keep:
+These are proposed benefit pathways, not proven outcomes.
 
-Members
+Do not attach unsupported dollar values to these additional benefits.
 
-Know what's next
+Avoid double-counting contact reductions already represented in the illustrative scenarios.
 
-Use these three benefit statements:
+---
 
-- See confirmed next steps and responsible parties.
-- See confirmed receipt and verification status.
-- Follow meaningful milestones instead of waiting without visibility.
+6. MAKE PILOT VALIDATION VISIBLE
 
-The language should communicate clarity and transparency without suggesting that unverified events are shown as confirmed.
+Include one concise, high-contrast measurement statement near the bottom of the lower section:
 
-4. REFINE THE PROVIDERS COLUMN
+Measure incremental call reduction, avoidable pends, and processor effort against a comparable holdout.
 
-Keep:
+This should be clearly visible but not compete with the three financial figures.
 
-Providers
+The purpose is to show that ClaimTrack will earn investment and scaling decisions through measured evidence.
 
-Fewer status chases
+Do not claim that a holdout study has already been completed.
 
-Use these three benefit statements:
+Do not introduce arbitrary performance targets or success thresholds.
 
-- See authorized, verified claim-status milestones.
-- See confirmed receipt and outstanding requirements.
-- Potentially reduce repetitive status inquiries.
+The pilot design and timeline will be covered on Slide 10.
 
-Do not imply that provider access already exists in production or that fewer calls have been demonstrated.
+---
 
-5. PRESERVE THE CLAIMS OPERATIONS COLUMN
+7. REMOVE OR RELOCATE SECONDARY STATISTICS
 
-Keep:
+Remove the following from the visible Slide 9 layout:
 
-Claims Operations
+- Denied-then-paid rework statistic (~23%).
+- Repeat-pend statistics (11.7% billing / 5.3% COB).
+- Adjacent-program evidence of up to 21% fewer calls.
+- Processor touch-cost assumption (~$3.50).
 
-One workflow, not a hunt
+These figures may be preserved in speaker notes or backup material, with their original populations, denominators, and sources.
 
-Use:
+They should not crowd the primary financial story.
 
-- Consolidate ownership, evidence, and verified progress.
-- Reduce manual navigation and duplicate follow-up where feasible.
-- Identify actionable COB gaps before adjudication when possible.
+Do not introduce them as ClaimTrack outcomes.
 
-This column is particularly important because it connects the proposed solution to existing operational friction.
+The 23% statistic should not be casually redefined as a percentage of pended claims if the original analysis used a different denominator.
 
-Preserve the message and avoid introducing additional technical terminology.
+---
 
-6. PRESERVE THE CIGNA GROUP COLUMN
+8. FINANCIAL INTEGRITY AND GUARDRAILS
 
-Keep:
+The slide must make the following distinctions:
 
-The Cigna Group
+Internally grounded:
 
-Measurable operational value
+- Latest-month COB call volume.
+- Latest-month broader billing + COB call volume.
+- $12 fully loaded average cost per call.
+- Annualized contact-center cost pools.
 
-Use:
+Illustrative assumptions:
 
-- Potentially fewer avoidable COB pends and repeat contacts.
-- Better use of contact-center and claims-operations capacity.
-- Validate against a comparable control group before scaling.
+- 5% reduction in COB calls.
+- 5% reduction in broader billing + COB calls.
+- Gross annual capacity-equivalent values.
 
-Keep the green accent.
+Not yet established:
 
-Do not add financial figures, savings percentages, break-even claims, or ROI projections. Those belong on Slide 9.
+- Actual ClaimTrack call reduction.
+- Realized cash savings.
+- Net financial return.
+- Pilot break-even.
+- Reduced processor costs.
+- Production-scale effectiveness.
 
-7. IMPROVE VISUAL READABILITY
+A fully loaded call cost is not necessarily the marginal avoidable cost of eliminating a call.
 
-The slide will be presented through Microsoft Teams screen sharing.
+The scenarios represent potential capacity-equivalent value. Actual cash savings depend on operational cost behavior and implementation decisions.
 
-Make these subtle adjustments:
+Do not describe the entire $6.7M baseline as addressable savings.
 
-- Increase body font size where possible without overcrowding.
-- Maintain consistent font sizes across all four columns.
-- Keep icons aligned and equally prominent.
-- Ensure all four column headings share a consistent baseline.
-- Preserve balanced column widths and spacing.
-- Maintain clean alignment of bullet points.
-- Keep the ribbon compact and visually balanced.
-- Use strong contrast for smaller text.
-- Preserve generous whitespace below the benefit statements.
-- Avoid unnecessary decorative elements.
+Do not use the phrase "guaranteed savings."
 
-Do not add new cards, diagrams, charts, or sections.
+Do not display a 3.7% break-even claim.
 
-If space is constrained, adjust spacing before reducing font size.
+Do not add the $337K and $1.0M scenarios together.
 
-8. BUSINESS ACCURACY REQUIREMENTS
+Do not present the $250K proposed pilot investment as an approved budget or use it to claim a validated ROI.
 
-This is a proposed value proposition, not a report of realized production outcomes.
+The proposed pilot investment, scope, and implementation plan will be discussed on Slides 10 and 11.
 
-Maintain the following safeguards:
+---
 
-- Proactive PreClear identifies potential actionable COB risks before adjudication, where feasible.
-- Shared Resolution communicates recorded and processor-validated milestones.
-- Different audiences receive only information they are authorized to access.
-- Existing claims platforms retain adjudication authority.
-- Human validation remains necessary where applicable.
-- Operational improvements and contact reductions require pilot validation.
-- Do not imply that ClaimTrack guarantees fewer pends, faster payment, or financial savings.
+9. SOURCE NOTE
 
-9. PRESENTER NOTES
+Add a compact, legible source note near the bottom of the slide:
 
-Use the following concise script:
+Source: Internal contact-center data, latest month annualized × 12; $12 fully loaded cost/call. Scenarios illustrative, not realized cash savings.
 
-"ClaimTrack creates value for everyone involved in the claims journey.
+Keep this source note readable without dominating the design.
 
-For members, it provides visibility into confirmed progress and helps answer what happens next.
+Do not fabricate source-document titles or approval references.
 
-For providers, authorized status visibility could reduce the need for repetitive follow-up.
+---
 
-For claims operations, the opportunity is to bring ownership, evidence, and progress together while identifying actionable COB information gaps earlier.
+10. VISUAL DESIGN REQUIREMENTS
 
-And for The Cigna Group, those improvements could translate into fewer avoidable pends, fewer repeat contacts, and better use of operational capacity.
+The slide must feel like a polished executive investment-opportunity slide, not a spreadsheet or technical report.
 
-These are the benefits we intend to validate, not outcomes we're claiming to have already achieved.
+Preserve:
 
-Now let's look at the financial opportunity behind that value."
+- Three prominent financial panels across the top.
+- Provider/member bar chart on the lower-left.
+- Operational value framework on the lower-right.
+- Existing ClaimTrack/Cigna visual identity.
 
-10. FINAL QUALITY STANDARD
+Improve:
 
-Slide 8 must communicate four distinct benefits:
+- Visual hierarchy and whitespace.
+- Readability of financial numbers.
+- Consistent alignment.
+- Clear distinction between baseline and scenarios.
+- Contrast and legibility during screen sharing.
+- Balance between financial evidence and business implications.
 
-Members — Clarity
+The $6.7M figure should be the primary visual anchor.
 
-Providers — Visibility
+The ~$337K and ~$1.0M scenarios should be prominent but visually subordinate.
 
-Claims Operations — Coordination
+Use green to indicate opportunity, not confirmed financial savings.
 
-The Cigna Group — Operational value
+Avoid tiny text, excessive footnotes, dense paragraphs, decorative gradients, and unnecessary icons.
 
-The slide should feel confident, human-centered, and executive-ready.
+Keep the slide executive-friendly and understandable within 10 seconds.
 
-Maintain a clear connection to Proactive PreClear and Shared Resolution.
+---
 
-Refine the existing slide in place. Preserve its structure and visual identity. Do not modify other slides.
+11. SPEAKER NOTES — PRESENTATION SCRIPT
+
+Add the following presenter script to Slide 9:
+
+"ClaimTrack also addresses a measurable financial opportunity.
+
+Using our latest internal contact-center volume and a fully loaded cost of twelve dollars per call, COB-related calls represent an annualized cost pool of approximately 6.7 million dollars.
+
+That's our baseline, not a claim that the entire amount is avoidable.
+
+To illustrate the opportunity, a five-percent reduction in COB-related calls across that annual population would represent approximately 337 thousand dollars in annual capacity-equivalent value.
+
+When we look at the broader billing and COB population, the same illustrative five-percent reduction represents approximately one million dollars in annual capacity-equivalent value.
+
+These scenarios are not additive, and they are not realized cash savings.
+
+Shared Resolution could help reduce repeat status inquiries by making verified claim progress visible.
+
+Proactive PreClear could reduce avoidable COB pends and downstream rework.
+
+We have deliberately not monetized those additional benefits yet.
+
+The purpose of our proposed pilot is to measure the actual impact against a comparable holdout, including call reduction, avoidable pends, and processor effort.
+
+We'll only recommend scaling based on demonstrated results."
+
+---
+
+12. FINAL QUALITY CHECK
+
+Before finalizing Slide 9, verify that:
+
+- The $6.7M calculation is correct.
+- The ~$337K scenario is calculated consistently.
+- The broader ~$1.0M scenario is clearly illustrative.
+- The broader and COB-only scenarios are not presented as additive.
+- The provider/member bar chart remains intact.
+- Both ClaimTrack capabilities have a clear operational value pathway.
+- The distinction between fully loaded cost and cash savings is preserved.
+- The latest-month annualization methodology is stated.
+- The slide is readable during Teams screen sharing.
+- All PowerPoint elements remain editable.
+- No other slide has been modified.
+
+REQUIRED FINAL IMPRESSION
+
+The judges should leave this slide thinking:
+
+"The opportunity is substantial, the underlying cost data is real, and the team has a disciplined plan to prove whether ClaimTrack can capture value."
+
+Make Slide 9 visually impressive, financially rigorous, concise, and consistent with the rest of the presentation.
+
+Modify Slide 9 ONLY.
