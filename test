@@ -1,193 +1,185 @@
-CLAIMTRACK — SLIDE 10 FINAL POLISH
+PowerPoint Copilot — Final Refinement of Slide 11 (The Ask)
 
-Refine Slide 10 ONLY of the existing ClaimTrack presentation for the Cigna Aspire iTournament 2026 finals.
+Refine Slide 11 ONLY of the existing ClaimTrack executive presentation. Preserve Slides 1–10 exactly as they are.
 
-IMPORTANT: This is a final polish, NOT a redesign.
+Objective
 
-The current slide is strong. Preserve its layout, branding, colors, timeline, scope funnel, three-column structure, and overall information hierarchy.
+Transform Slide 11 into a compelling, financially responsible executive investment request for the ClaimTrack pilot.
 
-Make only the targeted modifications below.
+The slide must communicate four things immediately:
 
-1. PRESERVE THE TITLE AND SUBTITLE
+1. We are requesting $250K in proposed initial funding.
+2. We have a transparent preliminary allocation.
+3. The financial opportunity is measurable, but savings are not guaranteed.
+4. The pilot will proceed through resource-confirmation, feasibility, and governance gates.
 
-Keep exactly:
+The result must feel like a confident executive investment proposal, not a speculative funding request.
 
-A focused six-month pilot with a hard go / no-go decision.
+1. Preserve the existing visual identity
 
-Start with PPO OAP1 / Proclaim COB workflows. Validate both capabilities before scaling.
+- Retain the full navy background, green $250K figure, white typography, horizontal budget bars, Cigna branding, and top-right navigation.
+- Preserve the existing two-column structure.
+- Maintain strong visual hierarchy and generous spacing.
+- Keep the slide visually impressive when shared through Microsoft Teams.
+- Do not add dense paragraphs, excessive disclaimers, or additional panels.
+- Use editable native PowerPoint elements.
 
-Preserve the existing title styling, navigation, and green Pilot indicator.
+2. Update the headline
 
-2. IMPROVE GO / NO-GO PANEL READABILITY
+Replace the existing title with:
 
-The dark navy decision panel on the right is visually effective, but its explanatory text is too small for Microsoft Teams screen sharing.
+“Invest $250K to launch a gated, six-month ClaimTrack pilot.”
 
-Keep the heading:
+This should remain large, bold, white, and prominent.
 
-SCALE ONLY IF VALUE AND SAFETY ARE PROVEN
+3. Left column — Investment and financial threshold
 
-Retain the five numbered criteria, but use the following shorter descriptions:
+Retain the large green:
 
-1. Milestone integrity
-Verified source events
+$250K
 
-2. Pend prevention
-Fewer avoidable COB pends vs. control
+Change the supporting label to:
 
-3. Contact reduction
-Fewer repeat inquiries vs. control
+Proposed initial pilot funding
 
-4. Operational safety
-No unacceptable member harm or processor burden
+Below it, retain the financial threshold:
 
-5. Governance
-Human authorization and full auditability
+20,834 fewer calls annually
 
-Increase the font size of the criterion labels and supporting descriptions.
+Supporting text:
 
-Maintain sufficient contrast against the navy background.
+“~3.7% of the annualized COB call baseline at $12 per call.”
 
-Keep all five criteria visually balanced and aligned.
+Add a concise qualifier in smaller, legible text:
 
-Do not add more criteria.
+“Illustrative annualized capacity-equivalent threshold; not guaranteed cash savings or six-month pilot payback.”
 
-Decision strip
+Maintain clear separation between the funding request and the financial threshold.
 
-Preserve the four possible decisions:
+4. Right column — Proposed budget allocation
 
-ADVANCE BOTH | ADVANCE ONE | REFINE | STOP
+Retain the existing five horizontal budget bars and values:
 
-Increase the decision-strip font slightly so it is legible during screen sharing.
+- Engineering — $100K
+- Data Science / AI Validation — $50K
+- Claims Operations / Governance — $40K
+- Member Experience — $35K
+- Gated Contingency — $25K
 
-These are possible decisions, not predetermined outcomes.
+Total: $250K.
 
-3. STRENGTHEN THE SHARED RESOLUTION PROOF POINT
+Change the section heading to:
 
-In the middle column, retain:
+“Proposed allocation | Subject to resource confirmation”
 
-PROACTIVE PRECLEAR
+These figures are preliminary planning allocations, not validated staffing estimates or approved departmental commitments.
 
-PREVENTION
+Do not change the amounts or introduce additional funding figures.
 
-Fewer avoidable pends
+5. Replace the existing recommendation box
 
-Update the Shared Resolution proof point to:
+Replace the existing white recommendation box with a clean, high-contrast executive decision statement.
 
-SHARED RESOLUTION
+Heading:
 
-VISIBILITY
+“DECISION REQUESTED”
 
-Verified milestones; fewer repeat inquiries
+Main text:
 
-This explicitly connects Shared Resolution to the contact-reduction opportunity quantified on Slide 9.
+“Approve a $250K initial funding envelope and executive sponsorship for a gated six-month pilot.”
 
-Preserve the existing compact design and capability colors.
+Supporting text:
 
-4. CLARIFY THE 85% STATISTIC
+“Month 1 confirms staffing, integration feasibility, scope, and budget before further delivery commitments.”
 
-In the WHY COB FIRST? section, preserve the three highlighted numbers:
+Use a white or very light background with a restrained green accent, consistent with the existing design.
 
-~600K
+Keep this statement concise and readable.
 
-~85%
+6. Clarify the funding gates
 
-~60 days
+Do not imply that the $250K is sufficient under every staffing scenario.
 
-Keep their supporting explanations concise:
+Do not imply that all six months of delivery spending are unconditionally authorized.
 
-- SCALE: Annual PPO OAP1 COB pends
-- CONCENTRATION: PPO OAP1 COB pends carrying Remark 407
-- TIME SENSITIVITY: Member response window
+The intended governance is:
 
-Ensure the 85% denominator is unambiguous.
+Month 1 — Confirm: Validate staffing commitments, dependencies, integration feasibility, detailed cost estimates, and eligible pilot scope.
 
-Do not change the underlying figures.
+Subsequent delivery — Gate: Release additional commitments according to approved milestones, with scope adjustment or escalation if costs exceed the funding envelope.
 
-5. PRESERVE THE PILOT SCOPE FUNNEL
+Month 6 — Decide: Advance both capabilities, advance one, refine, or stop based on measured value and operational safety.
 
-Keep:
+Do not place all three descriptions on the slide if they make it crowded. Prioritize the Month 1 funding gate in visible text and place detailed governance language in speaker notes.
 
-ALL EXTERNAL PENDS
+Preserve the $25K contingency as part of the proposed allocation, subject to explicit release approval.
 
-~1.61M annually
+7. Update stakeholder-engagement wording
 
-BILLING + COB PENDS
+Replace:
 
-79.6% of external pends
+“Engagement started”
 
-INITIAL FOCUS: PPO OAP1 COB PENDS
+With:
 
-~600K annually
+“Initial stakeholder engagement”
 
-Retain the clarification:
+Retain the existing stakeholder references:
 
-Historical problem volume; controlled eligible cohorts define the pilot.
+myCigna • Claims Operations • Claims Data & Insights • Email Outreach
 
-Do not imply that all 600K annual COB pends are pilot participants or that all can be prevented.
+Do not imply that these teams have formally approved the pilot, committed staffing, or endorsed the budget.
 
-6. PRESERVE THE SIX-MONTH TIMELINE
+If space is limited, use a compact footer-style line.
 
-Keep the existing timeline unchanged:
+8. Financial integrity requirements
 
-- Month 1 — Define + Design
-- Month 2 — Connect + Instrument
-- Month 3 — Shadow Validation
-- Months 4–5 — Controlled Exposure
-- Month 6 — Measure + Decide
-- Final Gate — Go / No-Go
+Ensure all financial statements are consistent with Slide 9:
 
-Preserve the qualification:
+- COB call baseline: approximately 46,757 calls per month.
+- Annualized run rate: approximately 561,084 calls.
+- Fully loaded internal contact-center cost: $12 per call.
+- Annualized COB call-cost pool: approximately $6.7M.
+- Proposed pilot investment: $250K.
+- Illustrative annualized capacity-equivalent threshold: approximately 20,834 fewer calls, or 3.7%.
 
-Proposed sequence subject to integration readiness, approvals, and resource availability.
+Do not present capacity-equivalent value as realized cash savings.
 
-Do not add more text to the visible timeline.
+Do not claim that a six-month pilot will recover its investment within six months.
 
-7. ADD ONE IMPORTANT QUALIFICATION TO SPEAKER NOTES
+Do not introduce new financial forecasts, unverified ROI percentages, or guaranteed savings.
 
-Explain that the approximately 60-day member response window may affect when outcomes can be reliably measured.
+9. Add speaker notes for anticipated executive questions
 
-Use:
+Include concise answers to:
 
-"Month 6 represents the initial evaluation and decision checkpoint. We will assess whether sufficient claims and contact outcomes have matured to support a reliable comparison. If evidence is incomplete, we will extend validation rather than prematurely recommend scaling."
+Q: Is $250K enough?
 
-This demonstrates responsible measurement without making the slide more crowded.
+“The $250K is a proposed initial funding envelope. Actual delivery capacity depends on existing resource availability and confirmed integration requirements. Month 1 establishes the detailed cost and staffing plan. We will adjust scope or seek further approval rather than overcommit.”
 
-Also clarify in speaker notes that the five success criteria will use thresholds agreed upon before controlled exposure.
+Q: What exactly are we approving?
 
-8. PRESERVE OPERATIONAL SAFEGUARDS
+“An initial funding envelope and sponsorship for a controlled pilot, subject to resource confirmation and milestone-based governance—not an unconditional enterprise-wide rollout.”
 
-Do not add new visual sections, but retain these principles in speaker notes:
+Q: Does 20,834 fewer calls mean guaranteed savings?
 
-- Existing claims platforms retain adjudication authority.
-- Source integrations require appropriate access and approvals.
-- Proactive PreClear interventions require human authorization.
-- Shared Resolution displays verified milestones, not invented statuses.
-- Predictive ML and grounded GenAI remain subject to separate validation.
-- A comparable control or holdout will be used where feasible.
-- Each capability may advance independently if its evidence supports deployment.
+“No. It represents an illustrative annualized capacity-equivalent value threshold at the current fully loaded cost per call. Actual incremental impact must be measured against a comparable holdout, and cash savings would require demonstrable expense reduction.”
 
-9. FINAL VISUAL QUALITY CHECK
+Q: What happens if the pilot underperforms?
 
-Ensure:
+“We refine, advance only the capability that demonstrates value, or stop. Production claims platforms retain adjudication authority throughout.”
 
-- All five success criteria are readable in presentation mode.
-- No text overlaps, clips, or wraps awkwardly.
-- The decision strip is legible.
-- The three highlighted COB statistics remain visually prominent.
-- The timeline retains its current spacing.
-- The three lower sections remain balanced.
-- The slide is understandable within approximately 10 seconds.
-- The Cigna branding and footer remain unchanged.
-- All elements remain editable in PowerPoint.
+10. Final visual quality control
 
-Do not add decorative elements, extra charts, additional statistics, or investment figures.
+- Preserve the strong executive impact of the current slide.
+- Keep $250K as the dominant visual anchor.
+- Make the decision request the second most prominent element.
+- Keep the budget bars aligned, readable, and proportionate.
+- Ensure all text is legible during online screen sharing.
+- Avoid tiny footnotes and crowded callouts.
+- Do not change other slides.
+- Do not change the approved budget values.
+- Do not imply funding or staffing commitments already exist.
+- Ensure Slide 11 closes the presentation with a clear, bounded, credible request.
 
-10. FINAL INSTRUCTION
-
-Modify Slide 10 ONLY. Do not modify Slides 1–9 or Slide 11.
-
-Preserve the current executive-quality design.
-
-This is the final polish before moving to the investment and sponsorship request.
-
-Deliver the revised PowerPoint with the updated Slide 10 and speaker notes.
+Deliver a polished, editable, boardroom-quality final Slide 11 consistent with the rest of the ClaimTrack presentation.
