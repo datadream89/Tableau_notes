@@ -1,264 +1,279 @@
-# CLAIMTRACK — SLIDE 7 ARCHITECTURE REDESIGN
+CLAIMTRACK — SLIDE 7 FINAL AI ARCHITECTURE REDESIGN
 
-Redesign **Slide 7 ONLY** of my existing ClaimTrack PowerPoint presentation for the Cigna Aspire iTournament 2026 finals.
+Redesign Slide 7 ONLY of my existing ClaimTrack presentation for the Cigna Aspire iTournament 2026 finals.
 
-**Replace the current four-card horizontal roadmap with a sophisticated, visually striking machine-learning model-selection architecture.**
-
-Preserve the existing ClaimTrack branding, Cigna-inspired navy/blue/teal/green palette, typography, navigation header, footer, and overall presentation identity.
+Preserve the existing ClaimTrack/Cigna visual identity, navy-blue/teal/green palette, typography, navigation header, and footer.
 
 Do not modify any other slide.
 
-## 1. DESIGN OBJECTIVE
+OBJECTIVE
 
-The current slide is professional but resembles a generic implementation roadmap. It lists AI concepts without visually demonstrating the technical architecture.
+Create a visually striking, technically sophisticated, executive-friendly AI architecture slide that explains how ClaimTrack's Proactive PreClear capability will evolve from an illustrative prototype into a rigorously validated production solution.
 
-The redesigned slide must communicate:
+The slide must communicate TWO complementary AI capabilities:
 
-1. ClaimTrack will use meaningful, time-aligned COB signals.
-2. Multiple candidate models will compete against a deterministic rules baseline.
-3. Rigorous validation will determine which approach performs best.
-4. ML will advance only when it demonstrates meaningful operational value.
+Predictive ML: Identify claims at risk of COB pend before adjudication.
 
-The audience includes senior business leaders, technical judges, and an AI sponsor.
+Generative AI: Explain grounded risk signals and support authorized reviewers in determining appropriate next steps.
 
-**Make this the most technically compelling slide in the presentation without sacrificing executive readability.**
+The audience includes senior executives, technical judges, and an AI sponsor.
 
-## 2. TITLE
+Avoid both extremes: generic four-card roadmaps and overcrowded engineering diagrams.
 
-**AI earns its place through measurable performance.**
+SLIDE TITLE
+
+AI earns its place through measurable performance.
 
 Subtitle:
 
-**Proposed production ML architecture | Building on our synthetic-data prototype**
+Proposed production architecture | Predictive ML + Grounded GenAI
 
-The subtitle must clearly distinguish the future production architecture from the illustrative prototype demonstrated on Slide 6.
+Add a small, readable label:
 
-## 3. MAIN VISUAL — CONNECTED ML ARCHITECTURE
+Building on our working synthetic-data prototype
 
-Create a professional, enterprise-grade ML pipeline diagram using editable PowerPoint shapes, icons, and connectors.
+MAIN DESIGN — FIVE CONNECTED ARCHITECTURE LAYERS
 
-Use three primary horizontal layers flowing vertically, followed by a prominent production decision gate.
+Use a visually balanced architecture with a clear top-to-bottom flow.
 
-Avoid conventional bullet-list cards.
+Make the Predictive ML and GenAI components visually distinct using complementary colors.
 
-### LAYER 1 — PRE-ADJUDICATION FEATURE LAYER
+Use editable PowerPoint shapes, connectors, and modern technical icons.
 
-Create a full-width, light-blue feature-engineering panel.
+LAYER 1 — PRE-ADJUDICATION COB SIGNALS
 
-**Heading:**
-PRE-ADJUDICATION FEATURE LAYER
+Create a compact, full-width data layer.
 
-**Primary content:**
-Coverage dates  |  Carrier details  |  COB readiness  |  Prior pend history
+Heading:
+PRE-ADJUDICATION COB SIGNALS
 
-**Small technical annotation:**
-Time-aligned snapshots • Leakage controls
+Content:
+Coverage dates • Carrier details • COB readiness • Prior pend history
 
-Use a database/data-engineering icon.
+Technical annotation:
+Time-aligned snapshots | Leakage prevention
 
-Visually communicate that these signals feed the candidate models below.
+Use a database icon and subtle blue styling.
 
-Important:
-- Prior pend history applies only where historical information exists.
-- Features must be available before the adjudication attempt being predicted.
-- The production data pipeline is proposed, not already implemented.
+Prior pend history applies only where available. Do not imply that new claims require prior pend history.
 
-### LAYER 2 — PARALLEL MODEL EXPERIMENTATION
+LAYER 2 — PREDICTIVE ML: COMPETING APPROACHES
 
-This should be the most visually distinctive section.
+Create three parallel model branches, clearly connected to the COB feature layer.
 
-Create three equally prominent model branches arranged horizontally, connected to the feature layer above.
-
-**BRANCH A — RULES BASELINE**
-
-Icon: Decision tree or branching logic
-
-Label:
-RULES BASELINE
-
-Supporting text:
+Branch A — RULES BASELINE
 Deterministic COB checks
 
-**BRANCH B — LINEAR ML**
-
-Icon: Statistical model or regression curve
-
-Label:
-LINEAR ML
-
-Supporting text:
+Branch B — LINEAR ML
 Logistic regression
 
-**BRANCH C — TREE ENSEMBLES**
-
-Icon: Connected decision trees or ensemble network
-
-Label:
-TREE ENSEMBLES
-
-Supporting text:
+Branch C — TREE ENSEMBLES
 Random forests • Gradient boosting
 
-Use visually distinct but harmonious blue, teal, and green accents.
+Use distinct blue/teal accents and consistent icons.
 
-Connect all three branches downward into one shared evaluation layer.
+The three branches must converge into a shared validation component.
 
-Do not show a winner or imply any production model has already been selected.
+Make this model competition visually prominent.
 
-The architecture should visually communicate that competing approaches are evaluated on a consistent basis.
+Do not show a winning algorithm or invented model scores.
 
-### LAYER 3 — RIGOROUS MODEL EVALUATION
+LAYER 3 — MODEL VALIDATION & SELECTION
 
-Create a full-width evaluation panel where the three model branches converge.
+Create a single, prominent validation panel.
 
-**Heading:**
-RIGOROUS MODEL EVALUATION
+Heading:
+MODEL VALIDATION & SELECTION
 
-Present four concise evaluation dimensions using compact labels and icons:
+Show four concise evaluation dimensions:
 
-**VALIDATION**
-Cross-validation + temporal holdout
+Validation: Cross-validation + temporal holdout
 
-**COHORTS**
-First-time vs. repeat-pend risk
+Cohorts: First-time vs. repeat-pend risk
 
-**MODEL QUALITY**
-Precision • Recall • Calibration
+Quality: Precision • Recall • Calibration
 
-**OPERATIONAL VALUE**
-Actionable yield at equal review capacity
+Value: Actionable yield at equal review capacity
 
-Arrange these four dimensions horizontally or in a balanced two-by-two arrangement.
+This stage must clearly communicate that candidate models are evaluated rigorously before selection.
 
-Make the evaluation layer feel like an engineering control system rather than a generic checklist.
+A deterministic rules approach remains the fallback if ML does not demonstrate meaningful incremental value.
 
-Do not display invented scores, performance charts, rankings, or model results.
+LAYER 4 — GROUNDED GENAI EXPLANATIONS
 
-## 4. BOTTOM HERO — THE AI DEPLOYMENT GATE
+This is a NEW and IMPORTANT component.
 
-Below the evaluation layer, create a bold dark-navy decision panel.
+Make it visually distinctive using a restrained violet or teal accent, while remaining consistent with the ClaimTrack design language.
 
-**Small heading:**
-THE AI DEPLOYMENT GATE
+Use a subtle sparkle or language-model icon.
 
-**Large question:**
-Does ML deliver more actionable COB risk identification than simple rules?
+Heading:
+GROUNDED GENAI EXPLANATIONS
 
-**Decision outcomes:**
+Main content:
+Risk signals → Clear explanations → Reviewable next steps
 
-YES → Advance ML through governance and human-reviewed implementation
+Technical annotation:
+Verified inputs • Approved guidance • No invented reasons
 
-NO → Retain the simpler rules-based approach
+GenAI must use authorized claim information, verified model-supported signals, and approved business guidance to produce explanations for human review.
 
-Use green emphasis for YES and neutral styling for NO.
+It must not invent COB causes, infer unsupported facts, independently determine payer responsibility, or autonomously change claims.
 
-The comparison must assume equivalent review capacity and account for false positives, operational feasibility, and the quality of identified interventions.
+Use a clear visual connection from the validated risk assessment to this explanation layer.
 
-The deployment gate should be immediately understandable and visually memorable.
+The GenAI layer is a proposed future capability, not a live feature of the current prototype.
 
-## 5. FOOTER TRUST STATEMENT
+LAYER 5 — HUMAN-REVIEWED INTERVENTION
 
-Use a compact, readable line:
+Create a compact, clearly visible human-in-the-loop stage.
 
-**Synthetic-data prototype today | Production validation planned | Human oversight always**
+Heading:
+HUMAN-REVIEWED INTERVENTION
 
-Do not add dense disclaimers or tiny text.
+Content:
+Processor validates risk, explanation, and next action before intervention.
 
-## 6. TECHNICAL ACCURACY — NONNEGOTIABLE
+Use a shield/person-check icon.
 
-### Current prototype, demonstrated on Slide 6
+Make clear that existing claims platforms remain authoritative for adjudication.
+
+BOTTOM HERO — TWO INDEPENDENT AI VALUE GATES
+
+Use a dark navy panel occupying approximately the lower quarter of the slide.
+
+Heading:
+AI MUST EARN ITS PLACE
+
+Inside the panel, show two concise, side-by-side decisions:
+
+PREDICTIVE ML GATE
+
+Does ML outperform simple rules at equal review capacity?
+
+YES → Advance ML
+NO → Keep rules
+
+GENAI GATE
+
+Do grounded GenAI explanations outperform simpler templates in accuracy and reviewer usefulness?
+
+YES → Advance GenAI
+NO → Keep templates
+
+Make these two gates visually balanced.
+
+Do not imply that ML and GenAI must be deployed together. Each must independently justify its operational value.
+
+Use restrained green emphasis for successful outcomes and neutral styling for simpler alternatives.
+
+BOTTOM FOOTER
+
+Use one concise, readable line:
+
+Synthetic-data prototype today | Production validation planned | Human oversight always
+
+Avoid dense disclaimer text.
+
+CRITICAL TECHNICAL ACCURACY
+
+The current Slide 6 prototype:
 
 - Uses synthetic claims and synthetic training data.
-- Contains a working logistic regression classifier.
-- Demonstrates a technical foundation for risk scoring.
-- Does not establish prospective predictive performance on real production claims.
-- LLM-style explanations are illustrative, not live LLM inference.
+- Includes a genuinely working logistic regression classifier.
+- Uses a binary Pend/Not Pend classification target.
+- Does not establish validated prospective prediction on real production claims.
+- Contains illustrative LLM-style explanations, not live LLM inference.
 
-### Proposed production development
+The proposed production architecture:
 
-- Obtain appropriately authorized historical claims and COB data.
-- Construct prediction-time feature snapshots.
-- Define future COB pend outcomes relative to those snapshots.
-- Prevent target leakage and inappropriate overlap between training and evaluation datasets.
-- Compare deterministic rules with multiple candidate ML algorithms.
-- Use appropriate cross-validation for model development and an untouched later-period holdout for final evaluation.
-- Evaluate first-time and repeat-pend scenarios separately.
-- Measure precision, recall, calibration, and actionable risk identification at equivalent review capacity.
-- Consider interpretability, operational feasibility, monitoring, and governance.
-- Select an ML approach only if validated evidence demonstrates meaningful incremental benefit.
-- Retain human authority over intervention decisions.
-- Existing claims platforms remain authoritative for adjudication.
+- Will use appropriately authorized historical claims and COB information.
+- Will reconstruct features available before the adjudication attempt being predicted.
+- Will compare rules, logistic regression, random forests, gradient boosting, and other justified models.
+- Will apply appropriate cross-validation, temporal holdout testing, leakage controls, and cohort-specific evaluation.
+- Will assess actionable risk identification at equivalent human-review capacity.
+- Will use model-supported contributing factors and approved guidance to ground GenAI explanations.
+- Will separately evaluate GenAI for factual accuracy, unsupported statements, consistency, reviewer usefulness, and operational benefit.
+- Will retain human authorization for interventions and existing claims systems for adjudication.
 
-Do not imply that production training, model comparisons, or validation results already exist.
+Do not present proposed capabilities as already deployed or validated.
 
-## 7. VISUAL DESIGN REQUIREMENTS
+Do not invent accuracy, AUC, savings, prevented-pend rates, or GenAI performance metrics.
 
-This slide will be presented via Microsoft Teams screen sharing.
+VISUAL COMPOSITION REQUIREMENTS
 
-Use a clean 16:9 layout with:
+This slide will be viewed through Microsoft Teams screen sharing.
 
-- Large, readable typography.
-- Strong contrast and generous whitespace.
-- A distinctive connected architecture rather than four isolated cards.
-- Clear directional flow from data to models to evaluation to decision.
-- Three visually balanced parallel model branches.
-- Subtle, professional connectors and arrows.
-- Restrained use of accent colors.
-- Consistent, modern technical icons.
-- Minimal text within each component.
-- No decorative robot illustrations or generic AI imagery.
-- No fake dashboards or invented performance charts.
-- Fully editable PowerPoint shapes and text.
+Prioritize visual hierarchy and legibility over the amount of text.
 
-Aim for body text of approximately 18–20 pt where practical. Prioritize legibility over preserving every detail.
+Use:
 
-**If space becomes constrained, shorten supporting text rather than shrinking the font.**
+- Large, high-contrast typography.
+- A clean 16:9 layout.
+- Distinctive ML and GenAI visual treatments.
+- Clear directional connectors.
+- Three parallel candidate-model branches.
+- A shared ML validation stage.
+- A separate GenAI explanation stage.
+- A clearly identifiable human-review endpoint.
+- Two compact value gates.
+- Consistent iconography and ample whitespace.
 
-The model-experimentation layer should attract the eye first, followed by the evaluation framework and deployment gate.
+Avoid:
 
-## 8. SPEAKER NOTES
+- Tiny text.
+- Long bullet lists.
+- Five oversized stacked cards.
+- Dense technical footnotes.
+- Generic AI robot illustrations.
+- Decorative graphics that do not explain the architecture.
+- Fake performance charts.
+- Excessively wide, shallow diagrams.
+
+If necessary, combine the validation and model-selection details into one compact visual element to preserve readability.
+
+Make the central ML/GenAI architecture the visual centerpiece.
+
+Use approximately 18 pt or larger for substantive on-slide text wherever practical. If content does not fit, simplify labels rather than shrinking the font.
+
+All elements must remain editable in PowerPoint.
+
+SPEAKER NOTES
 
 Add the following presenter script to Slide 7:
 
-"What you saw on the previous slide is our illustrative starting point: a working logistic regression classifier built with synthetic data.
+"What you saw in the previous slide is our illustrative prototype—a working logistic regression classifier using synthetic data, along with examples of how AI-generated explanations could appear.
 
-But we are not assuming logistic regression is the right production model.
+Our production vision goes further.
 
-Our proposed approach begins with authorized historical claims and COB information, organized into feature snapshots representing what was actually known before adjudication.
+First, we would build time-aligned datasets from authorized historical claims and COB information. We would compare simple business rules against multiple machine-learning models, including logistic regression, random forests, and gradient boosting.
 
-We would then compare deterministic business rules against multiple machine-learning approaches, including logistic regression, random forests, and gradient boosting.
+We would evaluate these approaches using cross-validation, temporal holdouts, and separate analysis for first-time and repeat COB pend risk.
 
-We would use cross-validation and temporal holdout testing, evaluating first-time and repeat COB pend scenarios separately.
+Once a validated model identifies risk, a proposed generative AI layer could translate grounded signals and approved guidance into clear explanations and reviewable next steps.
 
-Beyond precision, recall, and calibration, we would focus on the operational question: at the same human-review capacity, does ML help us identify more genuinely actionable COB risks?
+But neither component gets a free pass.
 
-If the evidence supports ML, we advance it through governance and controlled implementation. If not, we keep the simpler rules-based approach.
+Predictive ML must demonstrate meaningful value beyond simpler rules. GenAI must demonstrate that its explanations are accurate, useful, and better than simpler templates.
 
-Our goal is not to deploy AI for its own sake. It is to identify preventable information gaps earlier and support timely, authorized intervention."
+If either fails to justify its complexity, we retain the simpler approach.
 
-## 9. STRICT EXCLUSIONS
+And throughout the process, authorized processors remain responsible for interventions, while existing claims platforms retain adjudication authority.
 
-Do not:
-- Recreate the existing four-step roadmap.
-- Fill the slide with paragraphs or long bullet lists.
-- Present logistic regression as the final production choice.
-- Invent performance metrics, model rankings, or financial savings.
-- Claim production deployment or validated predictive accuracy.
-- Reintroduce the historical 1-in-5 versus 1-in-300 comparison.
-- Imply that Shared Resolution uses predictive AI.
-- Suggest that ClaimTrack autonomously approves, denies, pays, or corrects claims.
-- Change any other slide.
+Our objective is not simply to introduce AI. It is to identify actionable COB risks earlier, explain them responsibly, and support timely human intervention."
 
-## 10. FINAL QUALITY STANDARD
+FINAL QUALITY STANDARD
 
-The slide should look like an enterprise AI engineering architecture, not a consulting checklist.
+Within ten seconds, judges should understand the complete story:
 
-Within ten seconds, judges should understand:
+COB signals → Competing predictive models → Rigorous validation → Grounded GenAI → Human intervention
 
-**Meaningful COB signals → Competing models → Rigorous validation → Evidence-based deployment**
+They should also recognize two independent principles:
 
-The AI sponsor should recognize a credible proposed model-development and evaluation strategy.
+ML must outperform rules.
 
-Business judges should understand why that strategy matters: earlier identification of actionable COB risks, responsible use of resources, and human-controlled intervention.
+GenAI must outperform templates.
 
-Produce a polished, technically sophisticated, visually memorable Slide 7 that feels worthy of an innovation competition finalist presentation.
+The result should feel like a sophisticated, credible enterprise AI architecture—not a generic roadmap or a research presentation.
+
+Make Slide 7 technically impressive, visually memorable, readable through screen sharing, and consistent with the existing ClaimTrack presentation.
