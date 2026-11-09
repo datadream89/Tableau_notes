@@ -1,181 +1,269 @@
-CLAIMTRACK — SLIDE 9 FINAL MODIFICATIONS
+CLAIMTRACK — SLIDE 10 FINAL REFINEMENT
 
-Refine Slide 9 ONLY of the existing ClaimTrack presentation for the Cigna Aspire iTournament 2026 finals.
+Refine Slide 10 ONLY of the existing ClaimTrack presentation for the Cigna Aspire iTournament 2026 finals.
 
-IMPORTANT: Make precise, minimal refinements. Do not redesign the slide.
+Objective: Transform the existing pilot slide into a compelling, technically credible, executive-ready execution plan that demonstrates feasibility, measurable business outcomes, and disciplined governance.
 
-The current financial layout is strong and should be preserved.
+Do not redesign the presentation. Preserve the existing Cigna branding, navy/blue/green palette, navigation, typography, and slide number.
 
-1. PRESERVE THE EXISTING DESIGN
+1. TITLE AND SUBTITLE
 
-Keep unchanged:
+Keep the title:
 
-- Title: A $6.7M COB call-cost pool creates a measurable opportunity.
-- Subtitle: Internal contact-center baselines. Illustrative upside. Measured outcomes before scale.
-- Three prominent financial panels.
-- Provider/member horizontal bar chart.
-- Two operational-value panels for Proactive PreClear and Shared Resolution.
-- Bottom measurement banner.
-- Cigna branding, colors, typography, navigation, and footer.
+A focused six-month pilot with a hard go / no-go decision.
 
-Do not add new sections or increase information density.
+Update the subtitle to:
 
-2. CLARIFY THE THREE FINANCIAL PANELS
+Start with PPO OAP1 / Proclaim COB workflows. Validate both capabilities before scaling.
 
-PANEL 1 — COB BASELINE
+The six-month timeline is proposed and subject to integration readiness, approvals, and resource availability.
 
-Keep:
+2. SIX-MONTH EXECUTION TIMELINE
 
-$6.7M
+Preserve the horizontal timeline with five phases and a final decision gate.
 
-Annualized COB call-cost pool
+Use the following concise labels and deliverables.
 
-46,757 calls/month × 12 × $12/call
+MONTH 1 — Define + Design
 
-Latest-month internal contact-center run rate.
+- Confirm eligible COB cohorts and baseline metrics.
+- Define verified milestones and success thresholds.
 
-Do not change this panel's visual prominence.
+MONTH 2 — Connect + Instrument
 
-PANEL 2 — COB OPPORTUNITY
+- Establish authorized, read-only source integrations.
+- Instrument event reconciliation, audit trails, and processor review.
 
-Keep:
+MONTH 3 — Shadow Validation
 
-~$337K
+- Validate COB risk identification against deterministic rules.
+- Verify milestone accuracy before member-facing exposure.
 
-Annual capacity-equivalent value
+MONTHS 4–5 — Controlled Exposure
 
-5% fewer COB calls ≈ 28K fewer calls/year.
+- Human-authorized PreClear interventions.
+- Approved Shared Resolution visibility.
+- Comparable holdout for outcome measurement.
 
-Replace the current top label with:
+MONTH 6 — Measure + Decide
 
-COB OPPORTUNITY • ILLUSTRATIVE 5%
+- Evaluate pend reduction, contact reduction, safety, and operational effort.
+- Recommend advance, refine, or stop for each capability.
 
-This is a hypothetical COB-wide annual scenario, not demonstrated savings or a pilot forecast.
+FINAL GATE — GO / NO-GO
 
-PANEL 3 — BROADER OPPORTUNITY
+No uncontrolled deployment or automatic claims adjudication.
 
-Keep:
+Keep the timeline visually dominant but avoid excessive text. Use short phase labels on the slide and put detailed deliverables in speaker notes where necessary.
 
-~$1.0M
+3. PILOT SCOPE — PRESERVE THE FUNNEL
 
-Broader annual capacity-equivalent value
+Keep the existing three-bar scope visualization.
 
-5% fewer billing + COB calls.
+Use these precise labels:
 
-Replace the current top label with:
+ALL EXTERNAL PENDS
 
-BROADER OPPORTUNITY • BILLING + COB
+~1.61M annually
 
-The broader billing + COB baseline comes from internal contact-center data, using the latest available month annualized over 12 months.
+BILLING + COB PENDS
 
-The 5% reduction is illustrative.
+79.6% of external pends
 
-Do not imply the broader scenario is additional to the COB-only scenario. The populations overlap.
+INITIAL FOCUS: PPO OAP1 COB PENDS
 
-Do not introduce pilot terminology in either scenario panel.
+~600K annually
 
-3. IMPROVE THE SOURCE NOTE
+The ~600K figure represents historical annual COB-pended claims on PPO OAP1, not the number of pilot participants.
 
-Slightly enlarge the source-note font for Microsoft Teams screen sharing.
+Add a small clarification beneath the funnel:
 
-Use:
+Historical problem volume; controlled eligible cohorts define the pilot.
 
-Source: Internal contact-center data, latest month annualized × 12; $12 fully loaded cost/call. Illustrative capacity-equivalent values, not realized cash savings.
+Important:
 
-Keep the note unobtrusive but readable.
+- Do not label 600K as pilot enrollment.
+- Do not suggest every historically pended claim can be prevented.
+- Proactive PreClear evaluates eligible claims before adjudication.
+- Shared Resolution follows eligible claims that have already pended.
+- Preserve the original internal statistics without inventing new denominators.
 
-4. PRESERVE THE OPERATIONAL VALUE SECTION
+4. WHY COB FIRST — MAKE THE CASE WITH EVIDENCE
 
-Keep the two existing rows:
+Replace the current middle-column bullets with a more compelling, concise evidence-based presentation.
 
-PROACTIVE PRECLEAR
+Heading:
 
-Fewer avoidable COB pends
+WHY COB FIRST?
 
-Potentially less repeat processing and downstream rework.
+Use three primary reasons:
 
-SHARED RESOLUTION
+SCALE
 
-Fewer repeat status inquiries
+~600K annual COB pends on PPO OAP1.
 
-Verified progress may reduce unnecessary follow-up.
+CONCENTRATION
 
-These are potential outcomes to validate, not established results.
+~85% of PPO OAP1 COB pends carry Remark 407.
 
-Preserve the current icons, spacing, colors, and alignment.
+TIME SENSITIVITY
 
-5. PRESERVE THE MEASUREMENT BANNER
+Members generally have ~60 days to provide requested COB information.
 
-Keep exactly:
+These are historical and operational facts, not evidence that ClaimTrack has already reduced pends.
 
-Measure incremental call reduction, avoidable pends, and processor effort against a comparable holdout.
+Use bold numeric emphasis for 600K, 85%, and ~60 days.
 
-This reinforces disciplined measurement without introducing the pilot's scope or timeline prematurely.
+Keep this section visually clean.
 
-6. PRESERVE THE PROVIDER/MEMBER CHART
+5. SHOW WHAT EACH CAPABILITY MUST PROVE
 
-Keep:
+Within the lower-middle section, or immediately beneath the COB rationale, include two compact proof-point labels.
 
-Where the COB call-cost pool comes from
+PROACTIVE PRECLEAR — PREVENTION
 
-Provider calls: ~$3.76M
+Fewer avoidable COB pends through earlier, human-authorized intervention.
 
-Member calls: ~$2.94M
+SHARED RESOLUTION — VISIBILITY
 
-Ensure the figures are correctly sourced, rounded, and legible.
+Accurate verified milestones and fewer repeat status inquiries.
 
-Do not introduce additional charts.
+These are proposed outcomes, not demonstrated results.
 
-7. FINANCIAL SAFEGUARDS
+Use a blue accent for Proactive PreClear and teal/green for Shared Resolution.
 
-Maintain the following distinctions:
+Do not overcrowd the slide. If necessary, integrate these two proof points into the success-gate panel rather than creating additional large boxes.
 
-- The $6.7M figure is an internally grounded annualized cost pool.
-- The ~$337K and ~$1.0M figures are hypothetical 5% reduction scenarios.
-- The $12 unit cost is fully loaded, not necessarily the avoidable marginal cost.
-- Capacity-equivalent value is not automatically cash savings.
-- The COB-only and broader billing + COB scenarios overlap and must not be added.
-- No financial outcomes have yet been demonstrated by ClaimTrack.
-- Do not claim ROI, break-even, or guaranteed savings.
-- Do not introduce the proposed $250K investment here.
+6. REPLACE THE GO / NO-GO CRITERIA
 
-8. FINAL VISUAL POLISH
+Keep the existing dark navy decision panel, but strengthen its content.
 
-- Preserve the existing strong financial hierarchy.
-- Maintain $6.7M as the dominant figure.
-- Keep the two illustrative scenarios visually balanced.
-- Ensure the new labels fit cleanly without tiny fonts or awkward wrapping.
-- Preserve generous whitespace and alignment.
-- Improve source-note readability.
-- Do not add decorative elements or additional text.
-- Keep all elements editable in PowerPoint.
+Heading:
 
-9. UPDATE SPEAKER NOTES
+SCALE ONLY IF VALUE AND SAFETY ARE PROVEN
 
-Use this concise script:
+Use five concise criteria:
 
-"COB-related calls represent an annualized contact-center cost pool of approximately 6.7 million dollars, based on our latest internal contact-center data.
+1. Milestone integrity — Verified against authoritative source events.
+2. Pend prevention — Fewer avoidable COB pends versus control.
+3. Contact reduction — Fewer repeat inquiries versus control.
+4. Operational safety — No unacceptable member harm or processor burden.
+5. Governance — Human authorization and complete auditability.
 
-At an illustrative five-percent reduction, that represents approximately 337 thousand dollars in annual capacity-equivalent value.
+Success thresholds must be established before controlled exposure, not invented after results are observed.
 
-Looking more broadly at billing and COB combined, the same illustrative reduction represents approximately one million dollars.
+Allow independent decisions for each capability:
 
-These scenarios overlap and are not additive. They also represent potential capacity value, not guaranteed cash savings.
+Advance both | Advance one | Refine | Stop
 
-Proactive PreClear could help reduce avoidable COB pends and downstream rework, while Shared Resolution could reduce repetitive status inquiries.
+Do not imply both capabilities must succeed for either to proceed.
 
-The important point is that we have a measurable opportunity, and we intend to validate the actual improvement before recommending scale."
+7. TECHNICAL AND OPERATIONAL GUARDRAILS
 
-10. FINAL REQUIREMENT
+Preserve consistency with Slides 5–7.
 
-Slide 9 must communicate:
+The pilot must:
 
-COB is a meaningful financial opportunity.
+- Use authorized claims and COB information.
+- Preserve Proclaim and other existing claims platforms as adjudication authorities.
+- Use time-aligned pre-adjudication inputs for predictive risk evaluation.
+- Compare candidate ML approaches against deterministic rules.
+- Require human validation before intervention.
+- Ground any GenAI explanation in verified inputs and approved guidance.
+- Avoid invented claim statuses, reasons, or milestones.
+- Keep audit trails for source events, model outputs, explanations, and human decisions.
+- Require appropriate privacy, security, compliance, and release approvals.
 
-Billing + COB represents a larger potential opportunity.
+Do not suggest that production ML or GenAI is already deployed.
 
-Actual benefits must be demonstrated before scaling.
+The existing prototype uses synthetic data. Production model selection, integration, and validation remain proposed.
 
-Do not discuss pilot scope, timeline, staffing, or investment. Those topics belong on Slides 10 and 11.
+Keep these details primarily in speaker notes; do not turn the slide into a technical specification.
 
-Modify Slide 9 ONLY. Preserve the existing layout and all other slides.
+8. MEASUREMENT DESIGN
+
+The proposed evaluation should distinguish:
+
+PreClear outcomes
+
+- Avoidable COB pend rate.
+- Actionable risks identified at fixed review capacity.
+- Processor effort and intervention burden.
+
+Shared Resolution outcomes
+
+- Verified milestone accuracy.
+- Repeat status inquiries.
+- Member confusion or incorrect-update incidents.
+
+Enterprise outcomes
+
+- Incremental contact reduction.
+- Capacity-equivalent value.
+- Operational safety and scalability.
+
+Use a comparable control or holdout wherever feasible, accounting for differences in claim mix and eligibility.
+
+Do not claim a guaranteed causal effect or predetermined savings.
+
+9. VISUAL DESIGN REQUIREMENTS
+
+Preserve the current slide's strongest elements:
+
+- Bold executive headline.
+- Horizontal six-month timeline.
+- Narrowing scope funnel.
+- Dark navy go/no-go panel.
+- Cigna branding and navigation.
+
+Improve:
+
+- Numeric hierarchy for 600K, 85%, and ~60 days.
+- Alignment and spacing between the three lower sections.
+- Readability during Microsoft Teams screen sharing.
+- Clear distinction between historical facts and proposed pilot outcomes.
+
+Avoid:
+
+- Tiny text.
+- Dense paragraphs.
+- More than five success-gate items.
+- Additional large charts.
+- Excessive decorative icons.
+- New unverified metrics.
+- Introducing investment amounts or staffing commitments.
+
+All PowerPoint elements must remain editable.
+
+10. SPEAKER NOTES
+
+Include the following executive presentation script:
+
+"We're proposing a focused six-month pilot, starting with COB workflows on PPO OAP1 and Proclaim.
+
+The rationale is specific. We see approximately 600,000 COB-pended claims annually in this population, and roughly 85 percent carry Remark 407. Members generally have about 60 days to provide the requested information.
+
+We will first establish the authorized data connections, define the eligible cohorts, and validate our risk identification and event reconciliation in shadow mode.
+
+Then we propose controlled exposure with human oversight and a comparable holdout.
+
+We are testing two outcomes independently: whether Proactive PreClear reduces avoidable COB pends, and whether Shared Resolution delivers accurate milestones and reduces repeat inquiries.
+
+At the end of six months, we will assess the evidence against predefined success and safety criteria.
+
+We will recommend advancing only the capabilities that demonstrate measurable value and operational readiness."
+
+11. FINAL QUALITY CHECK
+
+Before delivering the revised PowerPoint, confirm:
+
+- The 600K figure is clearly identified as historical annual COB-pend volume.
+- Remark 407 is correctly tied to PPO OAP1 COB pends.
+- The ~60-day period is described as the member response window.
+- Both ClaimTrack capabilities have distinct success measures.
+- The six-month sequence is understandable within 10 seconds.
+- The go/no-go criteria are measurable and defensible.
+- The pilot remains human-supervised and does not independently adjudicate claims.
+- Slide 10 leads naturally to Slide 11's investment and sponsorship request.
+
+Modify Slide 10 ONLY. Preserve all other slides.
