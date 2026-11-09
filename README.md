@@ -1,202 +1,264 @@
-# Tableau_notes
+# CLAIMTRACK — SLIDE 7 ARCHITECTURE REDESIGN
 
-Notes from Coursera's Tableau specialization 
+Redesign **Slide 7 ONLY** of my existing ClaimTrack PowerPoint presentation for the Cigna Aspire iTournament 2026 finals.
 
-Course 1:Fundamentals of Visualization 
+**Replace the current four-card horizontal roadmap with a sophisticated, visually striking machine-learning model-selection architecture.**
 
-Week 1: Getting started and introduction to data visualization 
+Preserve the existing ClaimTrack branding, Cigna-inspired navy/blue/teal/green palette, typography, navigation header, footer, and overall presentation identity.
 
- Designing Great Visualizations: https://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf
+Do not modify any other slide.
 
- Why do we visualize quantitative data: https://www.perceptualedge.com/blog/?p=1897
+## 1. DESIGN OBJECTIVE
 
-Roles associated with data analytics in larger organizations: https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.1sLCdPo
+The current slide is professional but resembles a generic implementation roadmap. It lists AI concepts without visually demonstrating the technical architecture.
 
-Business Analytics Defined: https://hbr.org/video/2386816175001/business-analytics-defined
+The redesigned slide must communicate:
 
-Visual Description of BI: https://d18ky98rnyall9.cloudfront.net/_d6da11b0d144e55c72081d1064a3adda_Visual-Description-of-BI.pdf?Expires=1490832000&Signature=KWD-P-dGGT3Lt4JtkYNgKRGDyCmov3PG~5mlRT5Rg4ryduhI-NwIv419eS3VnNUUnO~0~Sj1H4wrW4urB0IMFynIrVyDYq19BrQoYKvKu88wacmLnqga0r7C0ug-Hig-aD7SQqx8OS1lPVMuAKQ~oFGThZj1JubCiOBqoQMLutg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+1. ClaimTrack will use meaningful, time-aligned COB signals.
+2. Multiple candidate models will compete against a deterministic rules baseline.
+3. Rigorous validation will determine which approach performs best.
+4. ML will advance only when it demonstrates meaningful operational value.
 
-What data visualization tools do /r/DataIsBeautiful OC creators use? http://www.randalolson.com/2016/03/11/what-data-visualization-tools-do-rdataisbeautiful-oc-creators-use/
+The audience includes senior business leaders, technical judges, and an AI sponsor.
 
-Visualizations: Comparing Tableau, SPSS, R, Excel, Matlab, JS, Python, SAS: http://www.datasciencecentral.com/profiles/blogs/visualizations-comparing-tableau-spss-r-excel-matlab
+**Make this the most technically compelling slide in the presentation without sacrificing executive readability.**
 
-Gartner Magic Quadrant: http://www.gartner.com/technology/research/methodologies/research_mq.jsp
+## 2. TITLE
 
-Why data visualization isn't optional:Anscombe's Quartet: https://d18ky98rnyall9.cloudfront.net/_3cee863558a8783e73f1a7b39c67a223_Anscombe_s-Quartet.pdf?Expires=1490832000&Signature=AYaHV~4I3dJF1TNiQY~3vUdFHVlAZXAo8w-KBVbnNhcDxta-c5OcxG6RnvHKutrPtHaY63B7pXyfnLp2ql1p-GKXROA36vaDUGxdOBKANUlfeL7C7w4zTqbNEKXfXIez96tjnp8gmspkGTF1ZdhsJ30H7BjxVr1KD87crJiNDVo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+**AI earns its place through measurable performance.**
 
+Subtitle:
 
-Week 2: Exploring and Navigating Tableau
+**Proposed production ML architecture | Building on our synthetic-data prototype**
 
-To optimize or to satisfice in data visualization? http://dataremixed.com/2016/01/optimize-or-satisfice-in-dataviz/
+The subtitle must clearly distinguish the future production architecture from the illustrative prototype demonstrated on Slide 6.
 
-Why data visualization matters? http://www.mulinblog.com/data-visualization-matters/
+## 3. MAIN VISUAL — CONNECTED ML ARCHITECTURE
 
-Week 3: Making data Connections
+Create a professional, enterprise-grade ML pipeline diagram using editable PowerPoint shapes, icons, and connectors.
 
-Connecting to Microsoft OData: https://blogs.msdn.microsoft.com/mcsuksoldev/2011/02/03/understanding-and-using-odata-1-of-4/
+Use three primary horizontal layers flowing vertically, followed by a prominent production decision gate.
 
-Connecting to OData: http://onlinehelp.tableau.com/current/pro/desktop/en-us/examples_odata.html
+Avoid conventional bullet-list cards.
 
-Web Data Connector: https://community.tableau.com/community/developers/web-data-connectors
+### LAYER 1 — PRE-ADJUDICATION FEATURE LAYER
 
-5 things to know about Web data Connectors:https://www.theinformationlab.co.uk/2015/07/27/5-things-to-know-about-the-tableau-9-1-web-data-connector/
+Create a full-width, light-blue feature-engineering panel.
 
-Web Data Connectors Advanced: http://onlinehelp.tableau.com/v9.2/public/online/windows/en-us/help.html#examples_web_data_connector.html
+**Heading:**
+PRE-ADJUDICATION FEATURE LAYER
 
-When to use Tableau Data Extracts:http://drawingwithnumbers.artisart.org/tde-or-live-when-to-use-tableau-data-extracts/
+**Primary content:**
+Coverage dates  |  Carrier details  |  COB readiness  |  Prior pend history
 
-Tableau Data Extracts-What/Why/How?: https://www.theinformationlab.co.uk/2011/01/20/tableau-extracts-what-why-how-etc/
+**Small technical annotation:**
+Time-aligned snapshots • Leakage controls
 
-Tableau - Join vs Relationship: http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm#multiple_connections.html
+Use a database/data-engineering icon.
 
-How to join data in tableau: http://www.tutorialgateway.org/how-to-join-data-in-tableau/
+Visually communicate that these signals feed the candidate models below.
 
-Extract your data: https://www.coursera.org/learn/data-visualization-tableau/supplement/BdMsk/tableau-extract-your-data
+Important:
+- Prior pend history applies only where historical information exists.
+- Features must be available before the adjudication attempt being predicted.
+- The production data pipeline is proposed, not already implemented.
 
-Week 4: Context of Data Visualization
+### LAYER 2 — PARALLEL MODEL EXPERIMENTATION
 
-Who , What and When of the data:  http://resonate.duarte.com/#!page0
+This should be the most visually distinctive section.
 
-Course 2: Essential Design principles
+Create three equally prominent model branches arranged horizontally, connected to the feature layer above.
 
-Week 1: Effective and Ineffective visuals 
+**BRANCH A — RULES BASELINE**
 
-Visualization is growing up: https://eagereyes.org/blog/2011/visualization-is-growing-up
+Icon: Decision tree or branching logic
 
-Types of Visualizations: Text/Number Visualization, 2x2 Table, Heatmap, Scatter plots (continuos variables), Line Graphs(time), Bar Graph(Horiontal, vertical, stacked, waterfall graphs), and maps for spatial analysis. 
+Label:
+RULES BASELINE
 
-Visual Analytics Best Practices: https://www.tableau.com/learn/whitepapers/tableau-visual-guidebook
+Supporting text:
+Deterministic COB checks
 
-Data Visualization Best Practices - Part 1: https://www.cardinalsolutions.com/blog/2016/04/data-visualization-best-practices-part-one-the-three-cardinal-rules
+**BRANCH B — LINEAR ML**
 
-Data Visualization Best Practices- Part 2: https://www.cardinalsolutions.com/blog/2016/05/data-visualization-best-practices-part-two-mistakes-to-avoid
+Icon: Statistical model or regression curve
 
-Ethics of Visualization: http://chrisalensula.org/the-ethics-of-visualization/
+Label:
+LINEAR ML
 
-To optimize or satisfice in Data visualization: http://dataremixed.com/2016/01/optimize-or-satisfice-in-dataviz/
+Supporting text:
+Logistic regression
 
-Good Data Visualization should be boring: http://www.everydayanalytics.ca/search?updated-max=2015-11-25T16:04:00-05:00&max-results=1&start=3&by-date=false
+**BRANCH C — TREE ENSEMBLES**
 
-Stacked Area Graphs aren't very useful: http://www.everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html
+Icon: Connected decision trees or ensemble network
 
-Week 2: Visual Perception and Cognitive load 
+Label:
+TREE ENSEMBLES
 
-Cognitive Design Guidelines: https://uxmag.com/articles/four-cognitive-design-guidelines-for-effective-information-dashbo
+Supporting text:
+Random forests • Gradient boosting
 
-Gestalt Principles: http://vanseodesign.com/web-design/gestalt-principles-of-perception/
+Use visually distinct but harmonious blue, teal, and green accents.
 
-Tapping the power of visual perception: https://d18ky98rnyall9.cloudfront.net/_3fffb4dcdf9df7e584870027c6324dee_Stephen-Few-article.pdf?Expires=1490918400&Signature=R3Uu3StbHRHwmC7I55N20PfIxP1g-3u4cxt4T2449tL61e~-eNuOseFyZLwO~E-TN3TCGk-Nq-lF5alCpthAWMEVJOAOnpKtpA62VIbyq6rDfQ-2jZZV5lKSQHxGn0OLkK0DIQJ~j41qMj2Wms3BqStb1BocedVkq9ST75IH1iE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+Connect all three branches downward into one shared evaluation layer.
 
-Preattentive visual properties: https://www.interaction-design.org/literature/article/preattentive-visual-properties-and-how-to-use-them-in-information-visualization
+Do not show a winner or imply any production model has already been selected.
 
-Declutter your data visualizations: http://www.storytellingwithdata.com/blog/2016/3/1/declutter-your-data-visualizations
+The architecture should visually communicate that competing approaches are evaluated on a consistent basis.
 
-Week 3: Design Best practices and Exploratory Analysis
+### LAYER 3 — RIGOROUS MODEL EVALUATION
 
-Gestalt Priinciples: Proximity, Similarity, Enclosure, Closure, Continuity, Connection
+Create a full-width evaluation panel where the three model branches converge.
 
-Making Data Visualizaions- Guide: https://www.slideshare.net/vis4/making-data-visualizations-a-survival-guide
+**Heading:**
+RIGOROUS MODEL EVALUATION
 
-History of data visualization: http://www.dashboardinsight.com/news/news-articles/the-history-of-data-visualization.aspx
+Present four concise evaluation dimensions using compact labels and icons:
 
-Design Examples: http://www.perceptualedge.com/example5.php
+**VALIDATION**
+Cross-validation + temporal holdout
 
-The Right Colors: http://www.perceptualedge.com/example5.php
+**COHORTS**
+First-time vs. repeat-pend risk
 
-Missed Opportunities : http://euclid.psych.yorku.ca/SCS/Gallery/missed.html and  http://www.datavis.ca/gallery/missed.php
+**MODEL QUALITY**
+Precision • Recall • Calibration
 
-Visual Business Intelligence: https://www.perceptualedge.com/blog/?p=2475
+**OPERATIONAL VALUE**
+Actionable yield at equal review capacity
 
-Challenger Disaster: http://www.asktog.com/books/challengerExerpt.html
+Arrange these four dimensions horizontally or in a balanced two-by-two arrangement.
 
-Data Exploration and Visualization: https://www.tableau.com/whitepaper/visual-analysis-for-everyone
+Make the evaluation layer feel like an engineering control system rather than a generic checklist.
 
-Anscombe's quartet: https://www.geogebra.org/m/tbwXxySn
+Do not display invented scores, performance charts, rankings, or model results.
 
-Week 4: Design for Understanding
+## 4. BOTTOM HERO — THE AI DEPLOYMENT GATE
 
-Brain Pickings https://www.brainpickings.org/index.php/tag/data-visualization/
+Below the evaluation layer, create a bold dark-navy decision panel.
 
-Data Visualization for Human Perception https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception
+**Small heading:**
+THE AI DEPLOYMENT GATE
 
-Data Visualization Gallery https://www.census.gov/dataviz/
+**Large question:**
+Does ML deliver more actionable COB risk identification than simple rules?
 
-Flowing Data http://flowingdata.com/
+**Decision outcomes:**
 
-National Geographic Channel: Brain Games - Fun Facts About Perception http://channel.nationalgeographic.com/brain-games/articles/brain-games-watch-this-perception-facts/
+YES → Advance ML through governance and human-reviewed implementation
 
-Junk Charts http://junkcharts.typepad.com/junk_charts/
+NO → Retain the simpler rules-based approach
 
-Taking Data Visualization From Eye Candy to Efficiency http://news.nationalgeographic.com/2015/09/150922-data-points-visualization-eye-candy-efficiency/
+Use green emphasis for YES and neutral styling for NO.
 
-The Surprising History of the Infographic http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist
-UX Magazine (I’ve written a series of articles about data visualization for the publication which can be found here): https://uxmag.com/contributors/hunter-whitney
+The comparison must assume equivalent review capacity and account for false positives, operational feasibility, and the quality of identified interventions.
 
-Course 3: Visual Analytics with Tableau
+The deployment gate should be immediately understandable and visually memorable.
 
-Charting Types: Bar Graphs, Line Graphs, Pie Charts, Maps, Scatter Plots, Gantt Charts, Bubble Charts, Histograms, Bulet Charts, Heat Maps, Highlight Tables, Treemaps, and Box-Plots
+## 5. FOOTER TRUST STATEMENT
 
-Dates, Table Calculations and Mapping
+Use a compact, readable line:
 
-Course 4: Creating Dashboards and storytelling using Tableau
+**Synthetic-data prototype today | Production validation planned | Human oversight always**
 
-Basic Data Storytelling Checklist: https://d18ky98rnyall9.cloudfront.net/_ea5009c4b0c433714e4a9442995ab990_Complete-Example---Basic-Data-Storytelling-Design-Checklist.pdf?Expires=1491955200&Signature=ODs~jJmNW9Oz0pLVouFeoBjmDRp1O9lFGqY~Jvo1fnzk8btdv0ze2o66xdTFyDY9EAqLyW~o7PaB5Tk3X7v0lYQSwnS24zN7ufS~tslQuTnvaW0gRin1pyMr8RzDhFgtLQB1K6Ba2HFoiNH3jTXLsvt9D8eUe7x2yFVEHbZE1Yw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+Do not add dense disclaimers or tiny text.
 
-A Message From Psychologists to Economists: Mere Predictability Doesn’t Matter Like it Should (Without a Good Story Appended to it),  http://pages.ucsd.edu/~aronatas/project/academic/dawes%20on%20narratives.pdf
+## 6. TECHNICAL ACCURACY — NONNEGOTIABLE
 
-Luhn, Matthew, How to Put More Emotion in Storytelling: Digital Advertisers Have Forgotten How to Make People Feel Something, Advertising Age, 2016 (http://adage.com/article/digitalnext/put-emotion-storytelling/304463/)
+### Current prototype, demonstrated on Slide 6
 
- Data Storytelling: Using Visualization to Share the Human Impact of Numbers:https://www.tableau.com/learn/whitepapers/data-storytelling-using-visualization-share-human-impact-numbers
- 
- How to tell a story with data :https://hbr.org/2013/04/how-to-tell-a-story-with-data
- 
- Whitepaper https://d18ky98rnyall9.cloudfront.net/_5848e0522129c76574edfd65aba9b651_whitepaper_mustdosofmarketingdashboards_eng_3.pdf?Expires=1492473600&Signature=QCU-4btz3tQFFEGhqkvW2JLgQmaWYomlD8X~LoxvVBq5-zCFA~RkBhFII8UzSjTgu5P8ba0NKCJ3aRunhQQBIQKx5ZU8FjmnGdgZMDCdFqMj8KV-66HF3JCaeFpkog1lFKe9WKcXxG6JM7CWl69k40h0VzKyBhv6HoqKi3pEoM8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
- 
-  A Guide to Creating Dashboards People Love to Use, http://www.cpoc.org/assets/Data/guide_to_dashboard_design1.pdf
-  
-  Top 5 Best Practices for creating effective dashboards, https://www.tableau.com/sites/default/files/whitepapers/dashboards-for-financial-services.pdf
-  
- Dashboard Design Principles, http://www.bethkanter.org/dashboard-design/
- 
- 5 Principles of Great Dashboard Design, http://blog.sumall.com/journal/5-principles-great-dashboard-design.html
- 
-  5 Best Practices for Telling Great Stories with Data. https://www.tableau.com/sites/default/files/whitepapers/whitepaper_best-practices_telling_great_stories.pdf
-  
-  Nuzzo, Regina, How scientists fool themselves – and how they can stop: Nature News and Comment, Nature 526, 182–185 2015 (http://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517)
-  
-  Paul, Annie M., Your Brain on Fiction, The New York Times Sunday Review Opinion 2012 (http://www.nytimes.com/2012/03/18/opinion/sunday/the-neuroscience-of-your-brain-on-fiction.html)
-  
-  McMinn, Randa, Merlob, Aaron, Where Data and Story Meet: The Modern Marketer and Modern Data Scientist The CMO Club (Hunter Whitney is one of the interviewees for this white paper.) (http://thecmoclub.com/wp-content/uploads/2017/01/Where_Data_and_Story_Meet.pdf)
+- Uses synthetic claims and synthetic training data.
+- Contains a working logistic regression classifier.
+- Demonstrates a technical foundation for risk scoring.
+- Does not establish prospective predictive performance on real production claims.
+- LLM-style explanations are illustrative, not live LLM inference.
 
+### Proposed production development
 
+- Obtain appropriately authorized historical claims and COB data.
+- Construct prediction-time feature snapshots.
+- Define future COB pend outcomes relative to those snapshots.
+- Prevent target leakage and inappropriate overlap between training and evaluation datasets.
+- Compare deterministic rules with multiple candidate ML algorithms.
+- Use appropriate cross-validation for model development and an untouched later-period holdout for final evaluation.
+- Evaluate first-time and repeat-pend scenarios separately.
+- Measure precision, recall, calibration, and actionable risk identification at equivalent review capacity.
+- Consider interpretability, operational feasibility, monitoring, and governance.
+- Select an ML approach only if validated evidence demonstrates meaningful incremental benefit.
+- Retain human authority over intervention decisions.
+- Existing claims platforms remain authoritative for adjudication.
 
+Do not imply that production training, model comparisons, or validation results already exist.
 
+## 7. VISUAL DESIGN REQUIREMENTS
 
+This slide will be presented via Microsoft Teams screen sharing.
 
+Use a clean 16:9 layout with:
 
+- Large, readable typography.
+- Strong contrast and generous whitespace.
+- A distinctive connected architecture rather than four isolated cards.
+- Clear directional flow from data to models to evaluation to decision.
+- Three visually balanced parallel model branches.
+- Subtle, professional connectors and arrows.
+- Restrained use of accent colors.
+- Consistent, modern technical icons.
+- Minimal text within each component.
+- No decorative robot illustrations or generic AI imagery.
+- No fake dashboards or invented performance charts.
+- Fully editable PowerPoint shapes and text.
 
+Aim for body text of approximately 18–20 pt where practical. Prioritize legibility over preserving every detail.
 
+**If space becomes constrained, shorten supporting text rather than shrinking the font.**
 
+The model-experimentation layer should attract the eye first, followed by the evaluation framework and deployment gate.
 
+## 8. SPEAKER NOTES
 
+Add the following presenter script to Slide 7:
 
+"What you saw on the previous slide is our illustrative starting point: a working logistic regression classifier built with synthetic data.
 
+But we are not assuming logistic regression is the right production model.
 
+Our proposed approach begins with authorized historical claims and COB information, organized into feature snapshots representing what was actually known before adjudication.
 
+We would then compare deterministic business rules against multiple machine-learning approaches, including logistic regression, random forests, and gradient boosting.
 
+We would use cross-validation and temporal holdout testing, evaluating first-time and repeat COB pend scenarios separately.
 
+Beyond precision, recall, and calibration, we would focus on the operational question: at the same human-review capacity, does ML help us identify more genuinely actionable COB risks?
 
+If the evidence supports ML, we advance it through governance and controlled implementation. If not, we keep the simpler rules-based approach.
 
+Our goal is not to deploy AI for its own sake. It is to identify preventable information gaps earlier and support timely, authorized intervention."
 
+## 9. STRICT EXCLUSIONS
 
+Do not:
+- Recreate the existing four-step roadmap.
+- Fill the slide with paragraphs or long bullet lists.
+- Present logistic regression as the final production choice.
+- Invent performance metrics, model rankings, or financial savings.
+- Claim production deployment or validated predictive accuracy.
+- Reintroduce the historical 1-in-5 versus 1-in-300 comparison.
+- Imply that Shared Resolution uses predictive AI.
+- Suggest that ClaimTrack autonomously approves, denies, pays, or corrects claims.
+- Change any other slide.
 
+## 10. FINAL QUALITY STANDARD
 
+The slide should look like an enterprise AI engineering architecture, not a consulting checklist.
 
+Within ten seconds, judges should understand:
 
+**Meaningful COB signals → Competing models → Rigorous validation → Evidence-based deployment**
 
+The AI sponsor should recognize a credible proposed model-development and evaluation strategy.
 
+Business judges should understand why that strategy matters: earlier identification of actionable COB risks, responsible use of resources, and human-controlled intervention.
 
-
-
-
-
+Produce a polished, technically sophisticated, visually memorable Slide 7 that feels worthy of an innovation competition finalist presentation.
