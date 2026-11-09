@@ -1,224 +1,178 @@
-CLAIMTRACK — SLIDE 8 VALUE CREATION REFINEMENT
+CLAIMTRACK — SLIDE 8 FINAL REFINEMENT
 
-Refine Slide 8 ONLY of my existing ClaimTrack presentation for the Cigna Aspire iTournament 2026 finals.
+Refine Slide 8 ONLY of my existing ClaimTrack PowerPoint presentation for the Cigna Aspire iTournament 2026 finals.
 
-IMPORTANT: This is a targeted refinement, not a complete redesign.
+CRITICAL: Make targeted improvements to the existing slide. Do not redesign it.
 
-Preserve the current four-column stakeholder layout, existing ClaimTrack/Cigna branding, navy-blue and green color palette, navigation header, typography, footer, and overall executive presentation style.
+Preserve the current four-column stakeholder layout, two-capability ribbon, icons, colors, typography, navigation header, and footer.
 
-Do not modify Slides 1–7 or Slides 9–11.
+Do not modify any other slide.
 
-1. OBJECTIVE
+1. PRESERVE THE TITLE AND SUBTITLE
 
-Slide 8 must answer one question:
+Keep the title exactly:
 
-Who benefits from ClaimTrack, and what specifically improves?
+Everyone on the claim gets a clear answer to “what's next?”
 
-The slide should communicate the value of both ClaimTrack capabilities:
-
-- Proactive PreClear: Identify actionable COB information gaps earlier, allowing human-validated intervention before adjudication where feasible.
-- Shared Resolution: Reconcile authorized evidence and surface verified milestones, ownership, and outstanding actions after a claim pends.
-
-The audience includes senior executives, claims operations leaders, business judges, and an AI sponsor.
-
-Prioritize business impact, operational credibility, and readability.
-
-2. TITLE AND SUBTITLE
-
-Keep the existing headline:
-
-Everyone on the claim gets a clear answer to “what’s next?”
-
-Replace the subtitle with:
+Keep the subtitle:
 
 Earlier intervention. Verified progress. Less avoidable friction.
 
-This should connect the prevention and resolution capabilities without suggesting that every outcome has already been achieved.
+Both are concise, memorable, and aligned with ClaimTrack's value proposition.
 
-3. PRESERVE THE FOUR STAKEHOLDER COLUMNS
+2. PRESERVE THE TWO-CAPABILITY RIBBON
 
-Maintain four equally balanced columns, with prominent icons, clear stakeholder headings, concise value statements, and no more than three short benefit points per column.
-
-COLUMN 1 — MEMBERS
-
-Heading:
-
-Members
-
-Value statement:
-
-Know what's next
-
-Benefits:
-
-- See confirmed next steps and responsible parties.
-- Know when submitted information is received and verified.
-- Follow meaningful resolution milestones instead of waiting without visibility.
-
-Emphasize transparency and reduced uncertainty.
-
-Do not imply that every internal event will be exposed to members or that all document submissions are automatically verified.
-
-COLUMN 2 — PROVIDERS
-
-Heading:
-
-Providers
-
-Value statement:
-
-Fewer status chases
-
-Benefits:
-
-- See authorized, verified claim-status milestones.
-- Reduce uncertainty around documentation receipt and outstanding requirements.
-- Potentially reduce repetitive status inquiries.
-
-Provider-facing access and visibility must be described as proposed capabilities subject to authorization and pilot scope.
-
-Do not claim proven reductions in provider calls or faster payment.
-
-COLUMN 3 — CLAIMS OPERATIONS
-
-Heading:
-
-Claims Operations
-
-Value statement:
-
-One workflow, not a hunt
-
-Benefits:
-
-- Bring relevant ownership, evidence, and verified progress into a consolidated view.
-- Reduce manual navigation and duplicate follow-up where feasible.
-- Identify actionable COB information gaps before adjudication when possible.
-
-This is the operational bridge between Proactive PreClear and Shared Resolution.
-
-Do not imply that ClaimTrack replaces existing claims-processing platforms or eliminates processor validation.
-
-COLUMN 4 — THE CIGNA GROUP
-
-Heading:
-
-The Cigna Group
-
-Value statement:
-
-Measurable operational value
-
-Benefits:
-
-- Potentially fewer avoidable COB pends and repeat contacts.
-- Better use of contact-center and claims-operations capacity.
-- Validate improvements against a comparable control group before scaling.
-
-Use a restrained green accent to differentiate enterprise-level value.
-
-Do not include financial projections in this column.
-
-4. ADD A SUBTLE TWO-CAPABILITY VALUE CONNECTION
-
-Introduce a compact, visually appealing horizontal element connecting the two ClaimTrack capabilities to their distinct benefits.
-
-Suggested wording:
+Keep the existing horizontal ribbon immediately below the subtitle.
 
 PROACTIVE PRECLEAR
+
 Earlier risk identification → Potentially fewer avoidable pends
 
 SHARED RESOLUTION
+
 Verified progress → Potentially fewer repeat inquiries
 
-Use two understated, color-coded labels or a thin horizontal ribbon.
+Maintain the two distinct accent colors and the balanced horizontal arrangement.
 
-This element should make the business value mechanism clear without becoming a fifth stakeholder column or overcrowding the slide.
+Ensure the ribbon remains legible through Microsoft Teams screen sharing.
 
-If necessary, place it immediately below the subtitle or just above the footer.
+Do not enlarge it at the expense of the stakeholder columns.
 
-Do not introduce another large panel.
+3. REFINE THE MEMBERS COLUMN
 
-5. REMOVE FINANCIAL CLAIMS FROM SLIDE 8
+Keep:
 
-Remove:
+Members
 
-- "$6.7M defensible COB call pool"
-- "Break-even at ~3.7% fewer COB calls"
-- Any other dollar-based savings or ROI claims.
+Know what's next
 
-These belong on Slide 9, where their underlying assumptions can be explained.
+Use these three benefit statements:
 
-Slide 8 should establish the qualitative and operational value proposition.
+- See confirmed next steps and responsible parties.
+- See confirmed receipt and verification status.
+- Follow meaningful milestones instead of waiting without visibility.
 
-Slide 9 will quantify the financial opportunity.
+The language should communicate clarity and transparency without suggesting that unverified events are shown as confirmed.
 
-6. CRITICAL BUSINESS AND TECHNICAL ACCURACY
+4. REFINE THE PROVIDERS COLUMN
 
-Ensure that:
+Keep:
 
-- Proactive PreClear is framed as earlier risk identification and potential human-authorized intervention, not guaranteed prevention.
-- Shared Resolution is based on recorded and processor-validated milestones, not invented claim-status updates.
-- Existing claims platforms remain authoritative for adjudication.
-- Different audiences receive information appropriate to their authorization and access rights.
-- Provider visibility is a proposed capability, not an established production feature.
-- Call reductions, rework reductions, and operational efficiency gains remain hypotheses requiring validation.
-- No claim is made that the prototype has already produced financial savings.
+Providers
 
-Do not add unsupported percentages, dollar amounts, timelines, or operational results.
+Fewer status chases
 
-7. VISUAL DESIGN REQUIREMENTS
+Use these three benefit statements:
 
-Keep the existing four-column layout because it is effective and executive-friendly.
+- See authorized, verified claim-status milestones.
+- See confirmed receipt and outstanding requirements.
+- Potentially reduce repetitive status inquiries.
 
-Improve the slide by:
+Do not imply that provider access already exists in production or that fewer calls have been demonstrated.
 
-- Increasing body-text readability for Microsoft Teams screen sharing.
-- Shortening bullets where needed.
-- Using consistent icons and typography.
-- Maintaining balanced column widths.
-- Preserving the navy accent for Members, Providers, and Claims Operations, and green for The Cigna Group.
-- Keeping generous whitespace between columns.
-- Making the stakeholder value statements visually distinct.
-- Avoiding dense paragraphs and tiny footnotes.
-- Using a clean, modern enterprise design.
+5. PRESERVE THE CLAIMS OPERATIONS COLUMN
 
-Do not introduce complex diagrams, large financial charts, or additional stakeholder categories.
+Keep:
 
-All elements must remain editable in PowerPoint.
+Claims Operations
 
-8. SPEAKER NOTES
+One workflow, not a hunt
 
-Add this presenter script to Slide 8:
+Use:
 
-"ClaimTrack creates value across the entire claims journey.
+- Consolidate ownership, evidence, and verified progress.
+- Reduce manual navigation and duplicate follow-up where feasible.
+- Identify actionable COB gaps before adjudication when possible.
 
-For members, Shared Resolution provides visibility into verified progress, so they can understand what's happening and what comes next.
+This column is particularly important because it connects the proposed solution to existing operational friction.
 
-For providers, authorized status visibility could reduce the need to repeatedly chase information.
+Preserve the message and avoid introducing additional technical terminology.
 
-For claims operations, the opportunity is twofold. Proactive PreClear can identify actionable COB information gaps earlier, while Shared Resolution can bring relevant evidence, ownership, and progress into a consolidated view.
+6. PRESERVE THE CIGNA GROUP COLUMN
+
+Keep:
+
+The Cigna Group
+
+Measurable operational value
+
+Use:
+
+- Potentially fewer avoidable COB pends and repeat contacts.
+- Better use of contact-center and claims-operations capacity.
+- Validate against a comparable control group before scaling.
+
+Keep the green accent.
+
+Do not add financial figures, savings percentages, break-even claims, or ROI projections. Those belong on Slide 9.
+
+7. IMPROVE VISUAL READABILITY
+
+The slide will be presented through Microsoft Teams screen sharing.
+
+Make these subtle adjustments:
+
+- Increase body font size where possible without overcrowding.
+- Maintain consistent font sizes across all four columns.
+- Keep icons aligned and equally prominent.
+- Ensure all four column headings share a consistent baseline.
+- Preserve balanced column widths and spacing.
+- Maintain clean alignment of bullet points.
+- Keep the ribbon compact and visually balanced.
+- Use strong contrast for smaller text.
+- Preserve generous whitespace below the benefit statements.
+- Avoid unnecessary decorative elements.
+
+Do not add new cards, diagrams, charts, or sections.
+
+If space is constrained, adjust spacing before reducing font size.
+
+8. BUSINESS ACCURACY REQUIREMENTS
+
+This is a proposed value proposition, not a report of realized production outcomes.
+
+Maintain the following safeguards:
+
+- Proactive PreClear identifies potential actionable COB risks before adjudication, where feasible.
+- Shared Resolution communicates recorded and processor-validated milestones.
+- Different audiences receive only information they are authorized to access.
+- Existing claims platforms retain adjudication authority.
+- Human validation remains necessary where applicable.
+- Operational improvements and contact reductions require pilot validation.
+- Do not imply that ClaimTrack guarantees fewer pends, faster payment, or financial savings.
+
+9. PRESENTER NOTES
+
+Use the following concise script:
+
+"ClaimTrack creates value for everyone involved in the claims journey.
+
+For members, it provides visibility into confirmed progress and helps answer what happens next.
+
+For providers, authorized status visibility could reduce the need for repetitive follow-up.
+
+For claims operations, the opportunity is to bring ownership, evidence, and progress together while identifying actionable COB information gaps earlier.
 
 And for The Cigna Group, those improvements could translate into fewer avoidable pends, fewer repeat contacts, and better use of operational capacity.
 
-These are the outcomes we intend to validate, not benefits we're claiming to have already achieved.
+These are the benefits we intend to validate, not outcomes we're claiming to have already achieved.
 
-On the next slide, we'll quantify the opportunity using our internal contact-center baseline."
+Now let's look at the financial opportunity behind that value."
 
-9. FINAL QUALITY STANDARD
+10. FINAL QUALITY STANDARD
 
-The slide must communicate:
+Slide 8 must communicate four distinct benefits:
 
-Members gain clarity.
+Members — Clarity
 
-Providers gain visibility.
+Providers — Visibility
 
-Claims Operations gain coordination.
+Claims Operations — Coordination
 
-The Cigna Group gains measurable operational opportunity.
+The Cigna Group — Operational value
 
-The judges should immediately understand how the two ClaimTrack capabilities create distinct but complementary value.
+The slide should feel confident, human-centered, and executive-ready.
 
-Keep the slide visually polished, concise, credible, and consistent with the existing presentation.
+Maintain a clear connection to Proactive PreClear and Shared Resolution.
 
-Refine Slide 8 in place. Do not redesign the presentation.
+Refine the existing slide in place. Preserve its structure and visual identity. Do not modify other slides.
